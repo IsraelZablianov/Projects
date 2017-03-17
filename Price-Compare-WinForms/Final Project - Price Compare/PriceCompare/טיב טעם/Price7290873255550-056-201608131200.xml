@@ -1,0 +1,428 @@
+﻿<Root>
+  <XmlDocVersion>19</XmlDocVersion>
+  <ChainId>7290873255550</ChainId>
+  <SubChainId>1</SubChainId>
+  <StoreId>56</StoreId>
+  <BikoretNo>4</BikoretNo>
+  <DllVerNo>9.4.0.21</DllVerNo>
+  <Items Count="22">
+    <Item>
+      <PriceUpdateDate>2015-05-06 15:33:22</PriceUpdateDate>
+      <ItemCode>7290008805964</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>יין קברנה שיראז גליל</ItemName>
+      <ManufacturerName>יקבי כרמל</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>יין קברנה שיראז גליל עליון</ManufacturerItemDescription>
+      <UnitQty>Unknown </UnitQty>
+      <Quantity>0.00</Quantity>
+      <UnitOfMeasure>Unknown </UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>44.90</ItemPrice>
+      <UnitOfMeasurePrice>0.0000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>156938</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-05-13 14:01:39</PriceUpdateDate>
+      <ItemCode>4017100198151</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>ביסקוויט ממולא קרם ו</ItemName>
+      <ManufacturerName>י"              ,</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>ביסקוויט ממולא קרם וניל היט 250 גרם</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>220.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>10.50</ItemPrice>
+      <UnitOfMeasurePrice>0.0477</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>295452</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-11-08 18:53:27</PriceUpdateDate>
+      <ItemCode>4051211</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>סלמי פפרוני איטליאנו</ItemName>
+      <ManufacturerName>י"              ,</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>סלמי פפרוני איטליאנו</ManufacturerItemDescription>
+      <UnitQty>קילוגרמים</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ק"ג</UnitOfMeasure>
+      <bIsWeighted>1</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>125.90</ItemPrice>
+      <UnitOfMeasurePrice>125.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>261584</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-03-30 07:25:39</PriceUpdateDate>
+      <ItemCode>7290103680534</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>יין אדמה גוורצטרמינר</ItemName>
+      <ManufacturerName>יקב תבור</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>יין אדמה גוורצטרמינר 750 מ"ל</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>750.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>59.90</ItemPrice>
+      <UnitOfMeasurePrice>0.0799</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>291665</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-06-03 11:22:06</PriceUpdateDate>
+      <ItemCode>8000500071083</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>קינדר שוקולד מארז 20</ItemName>
+      <ManufacturerName>פררו</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>קינדר שוקולד מארז 200 גרם</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>200.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>15.90</ItemPrice>
+      <UnitOfMeasurePrice>0.0795</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>106746</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-07-04 18:30:38</PriceUpdateDate>
+      <ItemCode>8902335006189</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בייקמייט עוגיות בטעם</ItemName>
+      <ManufacturerName>PAHAL FOODS EXIM</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>בייקמייט עוגיות בטעם חמאה 114 גרם</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>114.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>6.90</ItemPrice>
+      <UnitOfMeasurePrice>0.0605</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>308586</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-08-13 11:18:04</PriceUpdateDate>
+      <ItemCode>644684</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה אמנון קפוא 5-7</ItemName>
+      <ManufacturerName>י"              ,</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>פילה אמנון קפוא 5-7 תנובה</ManufacturerItemDescription>
+      <UnitQty>קילוגרמים</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ק"ג</UnitOfMeasure>
+      <bIsWeighted>1</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>39.90</ItemPrice>
+      <UnitOfMeasurePrice>39.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>281616</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-08-13 11:18:42</PriceUpdateDate>
+      <ItemCode>8000215204219</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>משקה אורז - אורגני 1</ItemName>
+      <ManufacturerName>נטורפוד</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>משקה אורז - אורגני 1 ליטר</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>12.90</ItemPrice>
+      <UnitOfMeasurePrice>12.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>225758</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-08-13 11:18:47</PriceUpdateDate>
+      <ItemCode>8000215204240</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>משקה שקדים ואורז - א</ItemName>
+      <ManufacturerName>נטורפוד</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>משקה שקדים ואורז - אורגני 1 ליטר</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>12.90</ItemPrice>
+      <UnitOfMeasurePrice>12.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>225759</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-08-13 11:18:47</PriceUpdateDate>
+      <ItemCode>8000215204714</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>משקה שיבולת שועל אור</ItemName>
+      <ManufacturerName>נטורפוד</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>משקה שיבולת שועל אורגני 1 ליטר PRIMAVENA</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>12.90</ItemPrice>
+      <UnitOfMeasurePrice>12.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>287692</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-08-13 11:18:48</PriceUpdateDate>
+      <ItemCode>8000215204233</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>משקה אורז עם סידן או</ItemName>
+      <ManufacturerName>נטורפוד</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>משקה אורז עם סידן אורגני 1 ל PRIMAVENA</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>12.90</ItemPrice>
+      <UnitOfMeasurePrice>12.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>287693</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-08-13 11:19:04</PriceUpdateDate>
+      <ItemCode>7290100850459</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>מיקס מעורב בשקית משפ</ItemName>
+      <ManufacturerName>STRAUSS</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>מיקס מעורב 390גרם/1יח/390ג</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>390.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>33.90</ItemPrice>
+      <UnitOfMeasurePrice>0.0869</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>133112</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-08-13 11:19:04</PriceUpdateDate>
+      <ItemCode>7501064191466</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>שישיית בירה קורונה 3</ItemName>
+      <ManufacturerName>סרבסריה מודלו</ManufacturerName>
+      <ManufactureCountry>מקסיקו</ManufactureCountry>
+      <ManufacturerItemDescription>שישיית בירה קורונה 355 מ"ל בקבוק</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>2.13</Quantity>
+      <UnitOfMeasure>ליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>59.90</ItemPrice>
+      <UnitOfMeasurePrice>28.1221</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>224885</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-08-13 11:19:10</PriceUpdateDate>
+      <ItemCode>6837561</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>גבינת גרוייר במשקל</ItemName>
+      <ManufacturerName>י"              ,</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>גבינת גרוייר במשקל אמרלנד</ManufacturerItemDescription>
+      <UnitQty>קילוגרמים</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ק"ג</UnitOfMeasure>
+      <bIsWeighted>1</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>41.90</ItemPrice>
+      <UnitOfMeasurePrice>41.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>289730</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-08-13 11:21:08</PriceUpdateDate>
+      <ItemCode>8436441</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה סלמון נורווגי</ItemName>
+      <ManufacturerName>י"              ,</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>פילה סלמון נורווגי קפוא 1.8-2.2 ק"ג</ManufacturerItemDescription>
+      <UnitQty>קילוגרמים</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ק"ג</UnitOfMeasure>
+      <bIsWeighted>1</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>85.90</ItemPrice>
+      <UnitOfMeasurePrice>85.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>111341</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-08-13 11:21:08</PriceUpdateDate>
+      <ItemCode>7622300005870</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>קפה גיקובס קרונונג נ</ItemName>
+      <ManufacturerName>JDE</ManufacturerName>
+      <ManufactureCountry>רוסיה</ManufactureCountry>
+      <ManufacturerItemDescription>קפה גיקובס קרונונג נטול קופאין 200 גר</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>200.00</Quantity>
+      <UnitOfMeasure>יחידה</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>45.90</ItemPrice>
+      <UnitOfMeasurePrice>0.2295</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>224831</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-08-13 11:21:09</PriceUpdateDate>
+      <ItemCode>2864929</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פילה סלמון נורבגי</ItemName>
+      <ManufacturerName>י"              ,</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>פילה סלמון נורבגי 100% טבעי קפוא 1-1.4</ManufacturerItemDescription>
+      <UnitQty>קילוגרמים</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ק"ג</UnitOfMeasure>
+      <bIsWeighted>1</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>83.90</ItemPrice>
+      <UnitOfMeasurePrice>83.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>161808</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-01-01 00:00:00</PriceUpdateDate>
+      <ItemCode>87000006928</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>רום קפטן מורגן כהה</ItemName>
+      <ManufacturerName>י"              ,</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>רום קפטן מורגן כהה</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>750.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>149.90</ItemPrice>
+      <UnitOfMeasurePrice>0.1999</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>112150</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-01-01 00:00:00</PriceUpdateDate>
+      <ItemCode>7290008804127</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>יין קברנה פרנק גליל</ItemName>
+      <ManufacturerName>יקבי כרמל</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>יין קברנה פרנק גליל עליון</ManufacturerItemDescription>
+      <UnitQty>Unknown </UnitQty>
+      <Quantity>0.00</Quantity>
+      <UnitOfMeasure>Unknown </UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>44.90</ItemPrice>
+      <UnitOfMeasurePrice>0.0000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>143444</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-01-01 00:00:00</PriceUpdateDate>
+      <ItemCode>5555777</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פיקדון חוזר 1.2 ש"ח</ItemName>
+      <ManufacturerName>י"              ,</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>פיקדון חוזר 1.2 ש"ח בק 500 מ"ל</ManufacturerItemDescription>
+      <UnitQty>Unknown </UnitQty>
+      <Quantity>0.00</Quantity>
+      <UnitOfMeasure>Unknown </UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>1.20</ItemPrice>
+      <UnitOfMeasurePrice>0.0000</UnitOfMeasurePrice>
+      <AllowDiscount>0</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>246480</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-01-01 00:00:00</PriceUpdateDate>
+      <ItemCode>80135906</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>מארז רושה 1/5</ItemName>
+      <ManufacturerName>פררו</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>מארז רושה 1/5</ManufacturerItemDescription>
+      <UnitQty>Unknown </UnitQty>
+      <Quantity>0.00</Quantity>
+      <UnitOfMeasure>Unknown </UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>10.50</ItemPrice>
+      <UnitOfMeasurePrice>0.0000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>270792</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-12-01 12:11:14</PriceUpdateDate>
+      <ItemCode>8594404001418</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בירה קוזל כהה 500 מ"</ItemName>
+      <ManufacturerName>Plzansky</ManufacturerName>
+      <ManufactureCountry>צ'כיה</ManufactureCountry>
+      <ManufacturerItemDescription>בירה קוזל כהה 500 מ"ל</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>500.00</Quantity>
+      <UnitOfMeasure>יחידה</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>8.90</ItemPrice>
+      <UnitOfMeasurePrice>0.0178</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>275093</ItemId>
+    </Item>
+  </Items>
+</Root>

@@ -1,0 +1,57 @@
+﻿<div class="place-bid">
+    <div class="bid-container" ng-class="$ctrl.categoriesService.matchTemplate($ctrl.auction.category)">
+        <div class="row header">
+            Place Bid
+            <a class="close" ng-click ="$ctrl.close()">&#10006;</a>
+        </div>
+        <div class="row">
+            <div class="col-sm-5 frame-div">
+                <img class="pic-frame-img" ng-src="../resources/images/pic-frame.png" />
+                <div class="img-div">
+                    <img class="img-auctin" ng-src="{{$ctrl.imgArr[$ctrl.currentImg]}}" fallback-src ="../../resources/images/no_image_available.jpg"/>
+                    <img class="left-arrow-img" ng-class="{enable:$ctrl.enableMoveLeft}" ng-src="../resources/images/left-arrow.png" ng-click="$ctrl.onLeftButtonClick()"/>
+                    <img class="right-arrow-img" ng-class="{enable:$ctrl.enableMoveRight}" ng-src="../resources/images/right-arrow.png" ng-click="$ctrl.onRightButtonClick()" />
+                </div>
+            </div>
+            <div class="col-sm-7 content-div">
+                <div class="title-div"> {{$ctrl.auction.title}}</div>
+                <div class="description-div"> {{$ctrl.auction.description}}</div>
+                
+                <div class="time-left-div">
+                    <img class="hour-glass-img" src="../resources/images/hour_glass.png" /> Time Left:
+                    <label class="culc-time-label">{{$ctrl.timeLeft}}</label> 
+                 </div>
+                <div class="start-auction-div">
+                    Start Auction bidding at:
+                    <label class="start-bid-label"> NIS {{($ctrl.auction.highestBid == undefined ?  $ctrl.auction.startBid: $ctrl.auction.highestBid.bid) | number :2 }}</label>
+                </div>
+                <div class="place-bid-div" ng-if="!$ctrl.bidPlaced&&!$ctrl.auctionDeletedError">
+                    <form ng-submit="$ctrl.onPlaceBidClick()">
+                        <input class="form-control bid-input" type="number" ng-model="$ctrl.highestBid.bid" placeholder="0.00" name="offer" required ng-change="$ctrl.textChange()" />
+                        <label class="nis-label">NIS</label>
+                        <button class="place-bid-buttom" ng-disabled="!$ctrl.validOffer" ng-class="{enable:$ctrl.validOffer}">
+                            Place Bid
+                        </button>
+                    </form>
+                </div>
+                <div class="thank-you-div" ng-if="$ctrl.bidPlaced">
+                    <span class="thank-you">Thank You!</span>
+                </div>
+                <div class="place-bid-error-div" ng-if="$ctrl.higherBidError">
+                    <span class="place-bid-error-mssg">Sorry, someone already placed a higer bid then you</span>
+                </div> 
+                <div class="auction-deleted-error-div" ng-if="$ctrl.auctionDeletedError">
+                    <span class="auction-deleted-error-mssg">Sorry, seller deleted this auction</span>
+                </div>
+                <div class="seller-name">
+                    Selller: <a href="mailto:{{$ctrl.auction.user.email}}" class="seller-email"> {{$ctrl.auction.user.name}} 
+                        <img class="auction-item-email-img" src="../resources/images/email.png" />
+                        </a>
+                    
+                </div>
+            </div>
+        </div>
+      
+</div>
+
+</div>

@@ -1,0 +1,124 @@
+﻿@import "../../Style.less";
+
+.sell-popup-container {
+    border: 1px solid #c9c9c9;
+    min-width: 1171.4px;
+
+    .header {
+        background-color: #e5e5e5;
+        margin-bottom: 20px;
+        padding-bottom:5px;
+        padding-top:5px;
+
+        .header-title {
+            padding-left: 6px;
+            font-weight: bold;
+            font-size: initial;
+            position: relative;
+        }
+    }
+
+    .item-name {
+        margin-bottom: 20px;
+    }
+
+    .item-description {
+        margin-bottom: 20px;
+    }
+
+    .item-photos {
+        margin-bottom: 20px;
+    }
+
+    .input-description {
+        padding-left: 30px;
+    }
+
+    input[type=text] {
+        border-radius: 3px;
+        position: relative;
+        outline: none;
+        width: 100%;
+        padding: 3px 0px 3px 3px;
+        &.ng-invalid-required {
+            border: 1px solid red;
+        }
+        border: 1.3px solid #DDDDDD;
+    }
+
+    textarea {
+        height: 90px;
+        border-radius: 3px;
+        position: relative;
+        outline: none;
+        width: 100%;
+        padding: 3px 0px 3px 3px;
+        border: 1.3px solid #DDDDDD;
+        resize: none;
+        &.ng-invalid-required{
+            border:1px solid red;
+        }
+    }
+
+    input[type="radio"] {
+        background-color: white;
+    }
+
+    input[type=number] {
+        width: 75px;
+        height: 30px;
+        position: relative;
+        border: 1px solid #ddd;
+        border-radius: 3px;
+        color: gray;
+        text-indent: 10px;
+    }
+
+    .button-auction-add {
+        margin-bottom: 20px;
+    }
+
+    .add-button {
+        background-color: #a6b100;
+        border: none;
+        outline: none;
+        width: 140px;
+        height: 34px;
+        color: #fff;
+        font-family: "roboto-bold";
+        font-size: 14px;
+    }
+
+    .currency {
+        left: 10px;
+        position: relative;
+    }
+
+    .lasting-time {
+        right: 30%;
+    }
+
+    .item-bidding-info {
+        margin-bottom: 20px;
+    }
+
+    select {
+        outline: none;
+        padding: 3px 0 3px 3px;
+        border: 1px solid #ddd;
+        border-radius: 3px;
+        box-shadow: 1px 1px 1px 1px #f2f6f9;
+        min-width: 200px;
+        min-height: 28px;
+        position: relative;
+
+        &:hover {
+            cursor: pointer;
+        }
+    }
+
+    .radio-buttons {
+        position: relative;
+        right: -13px;
+    }
+}

@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+
+    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="bower_components/angular-bootstrap/ui-bootstrap-csp.css" rel="stylesheet" />
+    <link href="Style.min.css" rel="stylesheet" />
+    <link href="components/Auction-item/auction-item-style.css" rel="stylesheet" />
+    <link href="components/Auctions/auctions-style.css" rel="stylesheet" />
+    <link href="components/Place-bid/place-bid-style.css" rel="stylesheet" />
+    <link href="components/Sell-popup/sell-popup-style.css" rel="stylesheet" />
+    <link href="components/User-login/user-login-style.css" rel="stylesheet" />
+</head>
+<body ng-controller="AppController as $ctrl">
+
+    <user-login ng-show="!$ctrl.userService.isLogedIn"></user-login>
+    <auctions ng-if="$ctrl.userService.isLogedIn"></auctions>
+
+    <script src="Scripts/jquery-2.1.2.js"></script>
+    <script src="Scripts/jquery.signalR-2.1.2.js"></script>
+
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/angular-route/angular-route.min.js"></script>
+    <script src="bower_components/angular-cookies/angular-cookies.min.js"></script>
+    <script src="bower_components/angular-bootstrap/ui-bootstrap.min.js"></script>
+    <script src="bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js"></script>
+    <script src="bower_components/angular-recaptcha/release/angular-recaptcha.min.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js?onload=vcRecaptchaApiLoaded&render=explicit"
+            async defer></script>
+    <script src="bower_components/ngInfiniteScroll/build/ng-infinite-scroll.min.js"></script>
+
+    <script src="DTO/auction.js"></script>
+    <script src="DTO/bid.js"></script>
+    <script src="DTO/user.js"></script>
+    <script src="DTO/category.js"></script>
+    <script src="DTO/HighestBid.js"></script>
+    <script src="DTO/auctionAdding.js"></script>
+    <script src="DTO/TimeLeft.js"></script>
+    <script src="DTO/userLogin.js"></script>
+    <script src="DTO/UserRegistration.js"></script>
+
+    <script src="app/app.js"></script>
+    <script src="app/app-controller.js"></script>
+
+    <script src="components/Auction-item/auction-item-controller.js"></script>
+    <script src="components/Auction-item/auction-item-component.js"></script>
+
+    <script src="components/Auctions/auctions-controller.js"></script>
+    <script src="components/Auctions/auctions-component.js"></script>
+
+    <script src="components/Sell-popup/Sell-popup-controller.js"></script>
+    <script src="components/Sell-popup/Sell-popup-component.js"></script>
+
+    <script src="components/Place-bid/place-bid-controller.js"></script>
+    <script src="components/Place-bid/place-bid-component.js"></script>
+
+    <script src="components/User-Login/user-login-controller.js"></script>
+    <script src="components/User-Login/user-login-component.js"></script>
+
+    <script src="services/user-service.js"></script>
+    <script src="services/auctions-service.js"></script>
+    <script src="services/routing-service.js"></script>
+    <script src="services/categories-service.js"></script>
+    <script src="services/culc-time-service.js"></script>
+    <script src="services/signalR-service.js"></script>
+
+    <script src="directives/fallback-src.js"></script>
+</body>
+</html>

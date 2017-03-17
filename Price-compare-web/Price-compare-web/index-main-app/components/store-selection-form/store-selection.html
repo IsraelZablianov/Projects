@@ -1,0 +1,39 @@
+﻿<div class="custom-container">
+    <div class="col-md-12">
+        <div class="row background-none box-shadow">
+            <div class="col-md-12">
+                <h4 dir="rtl" class="site-descriptiomn"><b>אתר השוואת המחירים המוביל בישראל</b></h4>
+            </div>
+        </div>
+        <div class="row" dir="rtl">
+            <div class="col-md-12">
+                <div class="row box-shadow margin repeated-item" ng-repeat="store in $ctrl.stores">
+                
+                    <div class="col-md-5">
+                        <select ng-model="store.selectedStore" class="store-select"
+                                ng-click="store.onStoreSelect($first)">
+                            <option ng-repeat="storeName in store.storeNames" value="{{storeName}}">{{storeName}}</option>
+                            <option ng-show="!store.selectedStore" value="" selected> בחר חנות</option>
+                        </select>
+                    </div>
+                    <div class="col-md-5">
+                        <select ng-model="store.selectedChain" class="store-select"
+                                ng-click="store.onChainSelect()">
+                            <option ng-repeat="chain in store.chainNames" value="{{chain}}">{{chain}}</option>
+                            <option ng-show="!store.selectedChain" value="" selected>בחר רשת</option>
+                        </select>
+                    </div>
+                    <div class="col-md-2">
+                        <span dir="ltr"><b>{{$index + 1}} בחר חנות</b></span>
+                    </div>
+                
+                </div>
+                <div class="row box-shadow">
+                    <div class="col-md-12 col-md-pull-2 add-store">
+                        <a href="#" ng-click="$ctrl.addStoreManager()">הוסף חנות להשוואה</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

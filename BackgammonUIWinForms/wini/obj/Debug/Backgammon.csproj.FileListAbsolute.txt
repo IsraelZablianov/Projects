@@ -1,0 +1,11 @@
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUIWinForms\wini\bin\Debug\wini.exe.config
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUIWinForms\wini\bin\Debug\wini.exe
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUIWinForms\wini\bin\Debug\wini.pdb
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUIWinForms\wini\bin\Debug\BackgammonLogic.pdb
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUIWinForms\wini\obj\Debug\Backgammon.csprojResolveAssemblyReference.cache
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUIWinForms\wini\obj\Debug\Backgammon.MainMenuForm.resources
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUIWinForms\wini\obj\Debug\wini.Properties.Resources.resources
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUIWinForms\wini\obj\Debug\Backgammon.BackgammonUI.resources
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUIWinForms\wini\obj\Debug\Backgammon.csproj.GenerateResource.Cache
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUIWinForms\wini\obj\Debug\wini.exe
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUIWinForms\wini\obj\Debug\wini.pdb

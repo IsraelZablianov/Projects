@@ -1,0 +1,10 @@
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompareLogic\bin\Debug\PriceCompareLogic.dll
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompareLogic\bin\Debug\PriceCompareLogic.pdb
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompareLogic\obj\Debug\PriceCompareLogic.csprojResolveAssemblyReference.cache
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompareLogic\obj\Debug\PriceCompareLogic.dll
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompareLogic\obj\Debug\PriceCompareLogic.pdb
+C:\Users\israel\Desktop\CodeValue\6. Final Project - Price Compare\Final Project - Price Compare\PriceCompareLogic\bin\Debug\PriceCompareLogic.dll
+C:\Users\israel\Desktop\CodeValue\6. Final Project - Price Compare\Final Project - Price Compare\PriceCompareLogic\bin\Debug\PriceCompareLogic.pdb
+C:\Users\israel\Desktop\CodeValue\6. Final Project - Price Compare\Final Project - Price Compare\PriceCompareLogic\obj\Debug\PriceCompareLogic.csprojResolveAssemblyReference.cache
+C:\Users\israel\Desktop\CodeValue\6. Final Project - Price Compare\Final Project - Price Compare\PriceCompareLogic\obj\Debug\PriceCompareLogic.dll
+C:\Users\israel\Desktop\CodeValue\6. Final Project - Price Compare\Final Project - Price Compare\PriceCompareLogic\obj\Debug\PriceCompareLogic.pdb

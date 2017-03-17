@@ -1,0 +1,48 @@
+﻿<Root>
+  <XmlDocVersion>19</XmlDocVersion>
+  <ChainId>7290873255550</ChainId>
+  <SubChainId>1</SubChainId>
+  <StoreId>14</StoreId>
+  <BikoretNo>4</BikoretNo>
+  <DllVerNo>9.4.0.21</DllVerNo>
+  <Items Count="2">
+    <Item>
+      <PriceUpdateDate>2016-07-04 18:30:30</PriceUpdateDate>
+      <ItemCode>8902335006189</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בייקמייט עוגיות בטעם</ItemName>
+      <ManufacturerName>PAHAL FOODS EXIM</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>בייקמייט עוגיות בטעם חמאה 114 גרם</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>114.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>6.90</ItemPrice>
+      <UnitOfMeasurePrice>0.0605</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>211508</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-08-10 14:20:34</PriceUpdateDate>
+      <ItemCode>7501064191466</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>שישיית בירה קורונה 3</ItemName>
+      <ManufacturerName>סרבסריה מודלו</ManufacturerName>
+      <ManufactureCountry>מקסיקו</ManufactureCountry>
+      <ManufacturerItemDescription>שישיית בירה קורונה 355 מ"ל בקבוק</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>2.13</Quantity>
+      <UnitOfMeasure>ליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>59.90</ItemPrice>
+      <UnitOfMeasurePrice>28.1221</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>127539</ItemId>
+    </Item>
+  </Items>
+</Root>

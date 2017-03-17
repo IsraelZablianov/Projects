@@ -1,0 +1,348 @@
+<Root>
+  <ChainId>7290873255550</ChainId>
+  <ChainName>טיב טעם</ChainName>
+  <XmlDocVersion>00000</XmlDocVersion>
+  <LastUpdateDate>2016-08-11</LastUpdateDate>
+  <LastUpdateTime>20:05:00</LastUpdateTime>
+  <SubChains>
+    <SubChain>
+      <SubChainId>1</SubChainId>
+      <SubChainName>1</SubChainName>
+      <Stores>
+        <Store>
+          <StoreId>2</StoreId>
+          <BikoretNo>5</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>נתניה</StoreName>
+          <Address>א.ת דרומי</Address>
+          <City>נתניה</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>3</StoreId>
+          <BikoretNo>4</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>אשדוד</StoreName>
+          <Address>זבוטינסקי פינת ויצמן מתחם פאוור סנטר</Address>
+          <City>אשדוד</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>5</StoreId>
+          <BikoretNo>2</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>ראשון לציון</StoreName>
+          <Address>האצל 18 א.ת חדש</Address>
+          <City>ראשון לציון</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>6</StoreId>
+          <BikoretNo>1</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>בת ים</StoreName>
+          <Address>העבודה 14 פינת המלאכה א.ת</Address>
+          <City>בת ים</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>7</StoreId>
+          <BikoretNo>0</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>אשקלון</StoreName>
+          <Address>התחיה 1</Address>
+          <City>אשקלון</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>10</StoreId>
+          <BikoretNo>4</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>כרמיאל</StoreName>
+          <Address>הכבאי 3</Address>
+          <City>כרמיאל</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>12</StoreId>
+          <BikoretNo>2</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>קריות</StoreName>
+          <Address>חלוצי התעשיה 116 מפרץ חיפה</Address>
+          <City>קריות</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>13</StoreId>
+          <BikoretNo>1</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>חנות המפעל</StoreName>
+          <Address>המזח 4</Address>
+          <City>א.ת עמק חפר</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>14</StoreId>
+          <BikoretNo>0</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>ראשון מזרח</StoreName>
+          <Address>המכבים 62 צומת בית דגן</Address>
+          <City>ראשון לציון</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>15</StoreId>
+          <BikoretNo>9</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>באר שבע חדש</StoreName>
+          <Address>דרך חברון 48 מתחם ביג</Address>
+          <City>באר שבע</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>17</StoreId>
+          <BikoretNo>7</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>מודיעין</StoreName>
+          <Address>המלאכה 14 ישפרו סנטר</Address>
+          <City>מודיעין</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>18</StoreId>
+          <BikoretNo>6</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>רחובות</StoreName>
+          <Address>אופנהיימר 2 פינת הרצל - קרית המדע</Address>
+          <City>רחובות</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>19</StoreId>
+          <BikoretNo>5</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>רמת החייל</StoreName>
+          <Address>דבורה הנביאה 122</Address>
+          <City>תל אביב</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>20</StoreId>
+          <BikoretNo>1</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>חולון עזריאלי</StoreName>
+          <Address>הבנאי</Address>
+          <City>חולון</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>21</StoreId>
+          <BikoretNo>0</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>יהוד</StoreName>
+          <Address>אלטלף 1</Address>
+          <City>יהוד</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>22</StoreId>
+          <BikoretNo>9</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>קניון דרורים</StoreName>
+          <Address>קניון דרורים</Address>
+          <City>לב השרון</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>30</StoreId>
+          <BikoretNo>8</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>מפגש מזרע</StoreName>
+          <Address>קיבוץ מזרע 19312</Address>
+          <City>עפולה</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>50</StoreId>
+          <BikoretNo>2</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>הרצליה פיתוח</StoreName>
+          <Address>מדינת היהודים 85</Address>
+          <City>הרצליה</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>51</StoreId>
+          <BikoretNo>1</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>דיילי רעננה</StoreName>
+          <Address>אחוזה 269 פארק מול רעננה</Address>
+          <City>רעננה</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>52</StoreId>
+          <BikoretNo>0</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>דיילי הרצליה</StoreName>
+          <Address>בן גוריון 56 פינת בר כוכבא</Address>
+          <City>הרצליה</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>54</StoreId>
+          <BikoretNo>8</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>בן-יהודה 1</StoreName>
+          <Address>בן יהודה 1</Address>
+          <City>תל אביב</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>55</StoreId>
+          <BikoretNo>7</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>אואזיס רמת גן</StoreName>
+          <Address>הרצל 75</Address>
+          <City>רמת גן</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>56</StoreId>
+          <BikoretNo>6</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>טופ דן</StoreName>
+          <Address>פנחס רוזן 72</Address>
+          <City>תל אביב</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>57</StoreId>
+          <BikoretNo>5</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>דיילי מאז"ה</StoreName>
+          <Address>מאז"ה 42</Address>
+          <City>תל אביב</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>58</StoreId>
+          <BikoretNo>4</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>בן-יהודה 130</StoreName>
+          <Address>בן יהודה 130 פינת בן גוריון</Address>
+          <City>תל אביב</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>59</StoreId>
+          <BikoretNo>3</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>בן יהודה 181</StoreName>
+          <Address>בן יהודה 181</Address>
+          <City>תל אביב</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>60</StoreId>
+          <BikoretNo>9</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>ראשון סיטי</StoreName>
+          <Address>זבוטינסקי 18</Address>
+          <City>ראשון לציון</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>61</StoreId>
+          <BikoretNo>8</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>חשמונאים 91</StoreName>
+          <Address>חשמונאים 91</Address>
+          <City>תל-אביב</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>62</StoreId>
+          <BikoretNo>7</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>דיזינגוף 16</StoreName>
+          <Address>דיזינגוף 16</Address>
+          <City>תל-אביב</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>63</StoreId>
+          <BikoretNo>6</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>אבן גבירול 64</StoreName>
+          <Address>אבן גבירול 64</Address>
+          <City>תל אביב</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>65</StoreId>
+          <BikoretNo>4</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>נחלת בנימין 47</StoreName>
+          <Address>נחלת בנימין 47</Address>
+          <City>תל אביב</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>67</StoreId>
+          <BikoretNo>2</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>דיזנגוף 199</StoreName>
+          <Address>דיזנגוף 199</Address>
+          <City>תל-אביב</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>68</StoreId>
+          <BikoretNo>1</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>סירקין 13</StoreName>
+          <Address>סירקין 13</Address>
+          <City>גבעתיים</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>70</StoreId>
+          <BikoretNo>6</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>יפו</StoreName>
+          <Address>שדרות ירושלים 4</Address>
+          <City>תל אביב</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>71</StoreId>
+          <BikoretNo>5</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>פרישמן 13 תל אביב</StoreName>
+          <Address>פרישמן 13</Address>
+          <City>תל אביב</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>81</StoreId>
+          <BikoretNo>2</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>מעדנייה הוד השרון</StoreName>
+          <Address>סוקולוב 13</Address>
+          <City>הוד השרון</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+        <Store>
+          <StoreId>200</StoreId>
+          <BikoretNo>5</BikoretNo>
+          <StoreType>1</StoreType>
+          <StoreName>מחסן העברות</StoreName>
+          <Address>unknown</Address>
+          <City>unknown</City>
+          <ZipCode>unknown</ZipCode>
+        </Store>
+      </Stores>
+    </SubChain>
+  </SubChains>
+</Root>

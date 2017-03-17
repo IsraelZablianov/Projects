@@ -1,0 +1,200 @@
+﻿.ng-invalid-required {
+  border: none;
+}
+@font-face {
+  font-family: 'Roboto-Regular';
+  src: url('../../resources/fonts/Roboto-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Roboto-light';
+  src: url('../../resources/fonts/Roboto-light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Roboto-Bold';
+  src: url('../../resources/fonts/Roboto-Bold.ttf') format('truetype');
+}
+.place-bid .container {
+  padding: 0;
+}
+.place-bid .bid-container {
+  border: 1px solid #cbcbcb;
+  border-bottom: 6px solid;
+  background-color: #ffffff;
+  position: center;
+  height: 350px;
+  width: 750px;
+}
+.place-bid .bid-container .row {
+  margin: 0;
+}
+.place-bid .bid-container .header {
+  font-family: 'Roboto-Bold';
+  background-color: #e5e5e5;
+  padding: 5px;
+}
+.place-bid .bid-container .frame-div {
+  position: relative;
+  height: 100%;
+}
+.place-bid .bid-container .frame-div .pic-frame-img {
+  position: absolute;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width: 300px;
+  height: 280px;
+}
+.place-bid .bid-container .frame-div .img-div {
+  position: absolute;
+  margin-bottom: auto;
+  margin-left: 15px;
+  margin-right: auto;
+  margin-top: 27px;
+  width: 268px;
+  height: 252px;
+}
+.place-bid .bid-container .frame-div .img-div .img-auctin {
+  max-width: 100%;
+  max-height: 100%;
+  border: 0;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+}
+.place-bid .bid-container .frame-div .img-div .left-arrow-img.enable {
+  opacity: 0.5;
+}
+.place-bid .bid-container .frame-div .img-div .left-arrow-img.enable:hover {
+  opacity: 0.7;
+}
+.place-bid .bid-container .frame-div .img-div .left-arrow-img {
+  position: absolute;
+  top: 90px;
+  width: 16px;
+  opacity: 0.2;
+  left: 0;
+}
+.place-bid .bid-container .frame-div .img-div .right-arrow-img.enable {
+  opacity: 0.5;
+}
+.place-bid .bid-container .frame-div .img-div .right-arrow-img.enable:hover {
+  opacity: 0.7;
+}
+.place-bid .bid-container .frame-div .img-div .right-arrow-img {
+  position: absolute;
+  top: 90px;
+  width: 16px;
+  opacity: 0.2;
+  right: 0;
+}
+.place-bid .bid-container .content-div {
+  margin: auto;
+  padding: 15px;
+  padding-left: 35px;
+  font-family: 'Roboto-Regular';
+}
+.place-bid .bid-container .content-div .title-div {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: dimgray;
+}
+.place-bid .bid-container .content-div .description-div {
+  padding-bottom: 25px;
+  overflow-y: auto;
+  max-height: 100px;
+}
+.place-bid .bid-container .content-div .time-left-div {
+  padding-bottom: 5px;
+  padding-top: 10px;
+  color: #696969;
+}
+.place-bid .bid-container .content-div .time-left-div .hour-glass-img {
+  height: 13px;
+}
+.place-bid .bid-container .content-div .time-left-div .culc-time-label {
+  display: inline-block;
+  font-family: 'Roboto-Bold';
+}
+.place-bid .bid-container .content-div .start-auction-div {
+  padding-bottom: 15px;
+  font-size: small;
+  color: #696969;
+}
+.place-bid .bid-container .content-div .start-auction-div .start-bid-label {
+  display: inline-block;
+  font-family: 'Roboto-Bold';
+}
+.place-bid .bid-container .content-div .place-bid-div {
+  padding-bottom: 15px;
+}
+.place-bid .bid-container .content-div .place-bid-div .bid-input {
+  width: 70px;
+  height: 30px;
+  border-radius: 3px;
+  display: inline-block;
+}
+.place-bid .bid-container .content-div .place-bid-div .nis-label {
+  padding-right: 15px;
+  font-size: small;
+  color: #696969;
+}
+.place-bid .bid-container .content-div .place-bid-div .place-bid-buttom {
+  color: #ffffff;
+  border-radius: 3px;
+  padding: 5px 30px 5px 30px;
+  background-color: #a6b700;
+  border: 0;
+  box-shadow: 1px 1px #7c7c01;
+  opacity: 0.5;
+}
+.place-bid .bid-container .content-div .place-bid-div .place-bid-buttom.enable {
+  opacity: 1;
+}
+.place-bid .bid-container .content-div .place-bid-div .place-bid-buttom.enable:hover {
+  background-color: #a6b100;
+}
+.place-bid .bid-container .content-div .thank-you-div .thank-you {
+  font-size: xx-large;
+}
+.place-bid .bid-container .content-div .place-bid-error-div .place-bid-error-mssg {
+  color: red;
+}
+.place-bid .bid-container .content-div .auction-deleted-error-div .auction-deleted-error-mssg {
+  font-size: large;
+  color: red;
+}
+.place-bid .bid-container .content-div .seller-name {
+  padding-bottom: 15px;
+  color: #5b5b5b;
+  font-size: 12px;
+  position: relative;
+}
+.place-bid .bid-container .content-div .seller-name .seller-email {
+  color: #097dd3;
+  text-decoration: none;
+  cursor: pointer;
+}
+.place-bid .bid-container .content-div .seller-name .auction-item-email-img {
+  margin-left: 5px;
+  position: relative;
+}
+.place-bid .bid-container.electronics-template {
+  border-bottom-color: #fbbb12;
+}
+.place-bid .bid-container.fashion-template {
+  border-bottom-color: #b31e8d;
+}
+.place-bid .bid-container.home-template {
+  border-bottom-color: #2aadad;
+}
+.place-bid .bid-container.books-template {
+  border-bottom-color: #8e59b6;
+}
+.place-bid .bid-container.children-template {
+  border-bottom-color: #e32f65;
+}
+.place-bid .bid-container.misc-template {
+  border-bottom-color: #e87b21;
+}

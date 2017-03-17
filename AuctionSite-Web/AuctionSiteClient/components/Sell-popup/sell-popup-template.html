@@ -1,0 +1,83 @@
+﻿<div class="container sell-popup-container">
+    <div class="row header">
+        <div class="col-md-6">
+            <div class="header-title">
+                Add item for Sale
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div>
+                <a class="close" ng-click="$ctrl.close()">&#10006;</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="row item-name">
+        <div class="col-md-1 input-description">Item:</div>
+        <div class="col-md-6">
+            <form name="titleForm">
+                <input name="titleInput" required type="text" ng-model="$ctrl.newAuction.title"  maxlength="30"/>
+            </form>
+        </div>
+        <div class="col-md-1">Category:</div>
+        <div class="col-md-4">
+            <select ng-model="$ctrl.newAuction.categoryId" ng-value="category.id" ng-options="category.id as category.name for category in $ctrl.categoriesService.categories">
+                <option selected hidden value="">Electronics</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="row item-description">
+        <div class="col-md-1 input-description">Description:</div>
+        <div class="col-md-6">
+            <form name="descriptionForm">
+                <textarea name="descriptionTextarea" required ng-model="$ctrl.newAuction.description"></textarea>
+            </form>
+        </div>
+        <div class="col-md-1">Condition:</div>
+        <div class="col-md-4 radio-buttons">
+            <div class="row"><input type="radio" name="condition" ng-value=true ng-model="$ctrl.newAuction.isItemNew"> New</div>
+            <div class="row"><input type="radio" name="condition" ng-value=false ng-model="$ctrl.newAuction.isItemNew"> Used</div>
+        </div>
+    </div>
+
+    <div class="row item-photos">
+        <div class="col-md-1 input-description">photos:</div>
+        <div class="col-md-6">
+            <form name="pictureForm">
+                <input name="pictureInput" required type="text" ng-model="$ctrl.newAuction.picture1" />
+            </form>
+        </div>
+    </div>
+    <div class="row item-photos">
+        <div class="col-md-1"></div>
+        <div class="col-md-6"><input type="text" ng-model="$ctrl.newAuction.picture2" /></div>
+    </div>
+    <div class="row item-photos">
+        <div class="col-md-1"></div>
+        <div class="col-md-6"><input type="text" ng-model="$ctrl.newAuction.picture3" /></div>
+    </div>
+    <div class="row item-photos">
+        <div class="col-md-1"></div>
+        <div class="col-md-6"><input type="text" ng-model="$ctrl.newAuction.picture4" /></div>
+    </div>
+
+    <div class="row item-bidding-info">
+        <div class="col-md-2 input-description">Start Auction bidding at:</div>
+        <div class="col-md-2">
+            <input min="0" placeholder="0.00" type="number" ng-model="$ctrl.newAuction.startBid" />
+            <span class="currency">NIS</span>
+        </div>
+        <div class="col-md-2">Lasting for:</div>
+        <div class="col-md-4">
+            <select ng-model="$ctrl.endDate" class="lasting-time" ng-options="date for date in $ctrl.endDates"></select>
+        </div>
+    </div>
+
+    <div class="row button-auction-add">
+        <div class="col-md-2 col-md-push-8">
+        <button ng-click="$ctrl.save()" 
+                ng-disabled="titleForm.titleInput.$invalid || descriptionForm.descriptionTextarea.$invalid || pictureForm.pictureInput.$invalid" 
+                class="add-button">Save</button></div>
+    </div>
+</div>

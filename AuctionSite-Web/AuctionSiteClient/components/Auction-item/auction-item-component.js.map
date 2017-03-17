@@ -1,0 +1,1 @@
+{"version":3,"file":"auction-item-component.js","sourceRoot":"","sources":["auction-item-component.ts"],"names":[],"mappings":"AAAA,GAAG,CAAC,SAAS,CAAC,aAAa,EACvB;IACI,WAAW,EAAE,oDAAoD;IACjE,UAAU,EAAE,qBAAqB;IACjC,QAAQ,EACR;QACI,OAAO,EAAE,GAAG;QACZ,QAAQ,EAAC,GAAG;KACf;CACJ,CAAC,CAAC"}

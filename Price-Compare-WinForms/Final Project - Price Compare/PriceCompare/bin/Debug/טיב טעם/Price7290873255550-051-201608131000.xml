@@ -1,0 +1,29 @@
+﻿<Root>
+  <XmlDocVersion>19</XmlDocVersion>
+  <ChainId>7290873255550</ChainId>
+  <SubChainId>1</SubChainId>
+  <StoreId>51</StoreId>
+  <BikoretNo>9</BikoretNo>
+  <DllVerNo>9.4.0.21</DllVerNo>
+  <Items Count="1">
+    <Item>
+      <PriceUpdateDate>2015-12-17 17:16:56</PriceUpdateDate>
+      <ItemCode>617</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>שורש -פטרוזילה</ItemName>
+      <ManufacturerName>י"              ,</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>שורש -פטרוזילה</ManufacturerItemDescription>
+      <UnitQty>Unknown </UnitQty>
+      <Quantity>0.00</Quantity>
+      <UnitOfMeasure>Unknown </UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>6.90</ItemPrice>
+      <UnitOfMeasurePrice>0.0000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>32960</ItemId>
+    </Item>
+  </Items>
+</Root>

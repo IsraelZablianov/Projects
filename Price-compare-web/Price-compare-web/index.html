@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html ng-app="mainAppModule">
+<head>
+    <title>Price Compare</title>
+    <meta charset="utf-8" />
+    <link href="index-main-app/StyleSheet.css" rel="stylesheet"/>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="Images/shopping-cart-icon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="assets/css/custom.css" />
+    <link href="index-main-app/new-css.css" rel="stylesheet" />
+</head>
+<body ng-controller="MainAppController as $ctrl">
+   
+    <price-compare>
+    </price-compare>
+
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="scripts/jquery-1.9.1.min.js"></script>
+    <script src="bower_components/angular-animate/angular-animate.min.js"></script>
+    <script src="scripts/bootstrap.min.js"></script>
+    <script src="assets/js/customjs.js"></script>
+    <script src="bower_components/angular-bootstrap/ui-bootstrap.js"></script>
+    <script src="bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js"></script>
+
+    <script src="index-main-app/classes/fileIdentifiers.js"></script>
+    <script src="index-main-app/classes/product.js"></script>
+    <script src="index-main-app/classes/report.js"></script>
+    <script src="index-main-app/classes/store-manager.js"></script>
+    <script src="index-main-app/classes/StoreDTO.js"></script>
+
+    <script src="index-main-app/app/main-module.js"></script>
+    <script src="index-main-app/app/shoping-cart-service.js"></script>
+    <script src="index-main-app/app/report-service.js"></script>
+    <script src="index-main-app/app/main-controller.js"></script>
+
+    <script src="index-main-app/components/store-selection-form/module.js"></script>
+    <script src="index-main-app/components/store-selection-form/store-selection-controller.js"></script>
+    <script src="index-main-app/components/store-selection-form/store-selection-component.js"></script>
+
+    <script src="index-main-app/components/shoping-cart/module.js"></script>
+    <script src="index-main-app/components/shoping-cart/shoping-cart-controller.js"></script>
+    <script src="index-main-app/components/shoping-cart/shoping-cart-component.js"></script>
+
+    <script src="index-main-app/components/price-compare/module.js"></script>
+    <script src="index-main-app/components/price-compare/price-compare-controller.js"></script>
+    <script src="index-main-app/components/price-compare/component.js"></script>
+
+</body>
+</html>

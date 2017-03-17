@@ -1,0 +1,1 @@
+﻿const priceCompareModule = angular.module("priceCompareModule", []);

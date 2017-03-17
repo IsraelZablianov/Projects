@@ -1,0 +1,53 @@
+﻿<div class="auctions container-fluid">
+    <div class="row auctions-header">
+        <img class="logo" src="../../resources/images/logo.png" />
+        <span class="log-out">| <a ng-click="$ctrl.logout()"> Log Out</a></span>
+        <span class="user-name">Hello {{$ctrl.userName}}</span>
+        <button class="sell-button" ng-click="$ctrl.openSellPopup()">SELL</button>
+    </div>
+
+    <div class="row">
+        <span class="category-tab"
+              ng-click="$ctrl.onCategoryChange()"
+              ng-class="$ctrl.categoriesService.matchTemplate(undefined, $ctrl.currentCategory===undefined)">
+            <span class="all-categories-tab">ALL AUCTIONS</span>
+        </span>
+        <span class="category-tab"
+              ng-class="$ctrl.categoriesService.matchTemplate(category, $ctrl.currentCategory.id===category.id)"
+              ng-repeat="category in $ctrl.categoriesService.categories"
+              ng-click="$ctrl.onCategoryChange(category)">
+            <img class="category-icon"
+                 ng-src="{{$ctrl.categoriesService.matchIcon(category, $ctrl.currentCategory.id===category.id)}}"></img>
+            <span>{{category.name.toUpperCase()}} </span>
+        </span>
+    </div>
+
+    <div class="auction-items-container">
+        <div class="row">
+            <div class="category-title col-lg-6 col-md-6 col-sm-4">{{$ctrl.currentCategory!== undefind? $ctrl.currentCategory.name : "All Auctions"}}</div>
+            
+            <div class="search col-lg-5 col-md-5 col-sm-7">
+                <div id="custom-search-input">
+                    <div class="input-group">
+                        <input type="text" class="search-query form-control" ng-model="$ctrl.searchInput" ng-model-options="{debounce: 200}" placeholder="Search"/>
+                        <span class="input-group-btn">
+                            <button class="btn btn-danger" type="button">
+                                <span class="glyphicon glyphicon-search"></span>
+                            </button>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div infinite-scroll="$ctrl.auctionsService.getMoreAuctions()" infinite-scroll-distance="1" infinite-scroll-disabled="$ctrl.auctionsService.busy">
+            <div class="row" ng-if="$ctrl.areAuctionsAvalable()">
+                <span class="col-sm-5 col-md-4 col-lg-3" ng-repeat="auction in $ctrl.auctionsService.auctions| filter:{category: $ctrl.currentCategory, title:$ctrl.searchInput}">
+                    <auction-item ng-click="$ctrl.openPlaceBid(auction)" auction="auction" on-delete="$ctrl.refreshPage()"/>
+                </span>
+            </div>
+            <div class="row no-auctions-txt" ng-if="!$ctrl.areAuctionsAvalable()"> Sorry, no auctions avalible.</div>
+        </div>
+    </div>
+</div>
+

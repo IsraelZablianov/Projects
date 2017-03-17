@@ -1,0 +1,16 @@
+c:\users\israel\documents\visual studio 2015\Projects\BackgammonUI\BackgammonUI\bin\Debug\BackgammonUI.exe.config
+c:\users\israel\documents\visual studio 2015\Projects\BackgammonUI\BackgammonUI\bin\Debug\BackgammonUI.exe
+c:\users\israel\documents\visual studio 2015\Projects\BackgammonUI\BackgammonUI\bin\Debug\BackgammonUI.pdb
+c:\users\israel\documents\visual studio 2015\Projects\BackgammonUI\BackgammonUI\obj\Debug\BackgammonUI.csprojResolveAssemblyReference.cache
+c:\users\israel\documents\visual studio 2015\Projects\BackgammonUI\BackgammonUI\obj\Debug\BackgammonUI.exe
+c:\users\israel\documents\visual studio 2015\Projects\BackgammonUI\BackgammonUI\obj\Debug\BackgammonUI.pdb
+c:\users\israel\documents\visual studio 2015\Projects\BackgammonUI\BackgammonUI\bin\Debug\BackgammonLogic.dll
+c:\users\israel\documents\visual studio 2015\Projects\BackgammonUI\BackgammonUI\bin\Debug\BackgammonLogic.pdb
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUI\BackgammonUI\bin\Debug\BackgammonUI.exe.config
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUI\BackgammonUI\obj\Debug\BackgammonUI.exe
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUI\BackgammonUI\obj\Debug\BackgammonUI.pdb
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUI\BackgammonUI\bin\Debug\BackgammonUI.exe
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUI\BackgammonUI\bin\Debug\BackgammonUI.pdb
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUI\BackgammonUI\bin\Debug\BackgammonLogic.dll
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUI\BackgammonUI\bin\Debug\BackgammonLogic.pdb
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUI\BackgammonUI\obj\Debug\BackgammonUI.csprojResolveAssemblyReference.cache

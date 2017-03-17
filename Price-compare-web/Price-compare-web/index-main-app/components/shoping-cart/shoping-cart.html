@@ -1,0 +1,105 @@
+﻿<div class="custom-container">
+    <div>
+        <div class="row box-shadow">
+            <div class="col-md-2 col-sm-4">
+                <button ng-click="$ctrl.compareStores()" class="btn custom-btn" title="על מנת להשוות, בחר לפחות שני חנויות ומוצר אחד">
+                    <b>השווה סל קניות</b>
+                </button>
+            </div>
+            <div class="col-md-9 col-sm-4">
+                <input type="text" ng-model="$ctrl.selectedProduct" typeahead-focus-on-select="false"
+                       uib-typeahead="p as p.name for p in $ctrl.products | filter:{name:$viewValue} | limitTo:8"
+                       typeahead-on-select="$ctrl.addProductToShopingCart($item, $model, $label, $event);"
+                       typeahead-popup-template-url="customTemplate.html" typeahead-show-hint="false"
+                       typeahead-min-length="0">
+            </div>
+            <div class="col-md-1 col-sm-2 search">
+                <span><b>חפש</b></span>
+            </div>
+        </div>
+        <div dir="rtl" class="row box-shadow items-info-title">
+            <div class="col-md-4">
+                <span><b class="product-quantity">כמות להוספה</b></span>
+            </div>
+            <div class="col-md-3">
+                <span><b>יח/משקל</b></span>
+            </div>
+            <div class="col-md-5">
+                <span><b class="product-name">שם המוצר</b></span>
+            </div>
+        </div>
+        <div class="row box-shadow empty-shoping-cart" ng-show="!$ctrl.shopingCartItems.length">
+            <b>הסל שלך ריק, הוסף מוצרים לסל</b>
+        </div>
+        <div class="row box-shadow repeated-item" ng-repeat="product in $ctrl.shopingCartItems">
+            <div class="col-md-12">
+                <div class="row product-row">
+                    <div class="col-md-2">
+                        <button class="product-btn" ng-click="$ctrl.removeProductFromShopingCart(product);">הסר</button>
+                    </div>
+                    <div class="col-md-2">
+                        <input class="product-amount" type="number" min="1" ng-model="product.quantity" />
+                    </div>
+                    <div class="col-md-8 small-font">
+                        <div class="row box-shadow product-data">
+                            <div class="col-md-5" dir="rtl">
+                                <span class="product-info"><b>{{product.name}}</b></span>
+                            </div>
+                        </div>
+                        <div class="row box-shadow product-data">
+                            <div class="col-md-5" dir="rtl">
+                                <span class="product-info">{{product.description}}</span>
+                            </div>
+                        </div>
+                        <div class="row box-shadow">
+                            <span class="product-unit-of-measure">{{product.unitOfMeasure}}</span>
+                        </div>
+                        <img class="product-img" ng-src="{{product.imageUrl}}" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> 
+
+<script type="text/ng-template" id="customTemplate.html">
+
+        <ul class="dropdown-menu" role="listbox"                     
+            ng-style="{top: position().top+'px', left: position().left+'px'}"
+            ng-show="isOpen() && !moveInProgress"
+            aria-hidden="{{!isOpen()}}">
+
+            <li class="uib-typeahead-match repeated-item" ng-repeat="match in matches track by $index" ng-class="{active: isActive($index) }"
+                ng-mouseenter="selectActive($index)" role="option" id="{{::match.id}}">
+                
+                <div class="container popup-dropdown">
+                    <div class="row popup-row">
+                        <div class="col-md-2">
+                            <button ng-click="selectMatch($index)"class="popup-btn">הוסף</button>
+                        </div>
+                        <div class="col-md-2">
+                            <input ng-click="$event.stopPropagation();" type="number" min="1" ng-model="match.model.quantity" />
+                        </div>
+                        <div class="col-md-8 small-font">
+                            <div class="row box-shadow popup-data">
+                                <div class="col-md-8">
+                                    <span class="popup-info" ng-bind-html="match.label | uibTypeaheadHighlight:query"></span>
+                                </div>
+                            </div>
+                            <div class="row box-shadow popup-data">
+                                <div class="col-md-8">
+                                    <span class="popup-info">{{match.model.description}}</span>
+                                </div>
+                            </div>
+                            <div class="row box-shadow">
+                                <span class="popup-data popup-unit">{{match.model.unitOfMeasure}}</span>
+                            </div>
+                            <img class="popup-img" ng-src="{{match.model.imageUrl}}" width="16" />
+                        </div>
+                    </div>
+                </div>
+
+            </li>
+        </ul>
+
+</script>

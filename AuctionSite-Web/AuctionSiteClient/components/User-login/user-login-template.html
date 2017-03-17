@@ -1,0 +1,88 @@
+﻿<div class="user-login">
+    <div class="container">
+        <div>
+            <div class="row header">
+                <img class="logo" src="../../resources/images/logo-new.png" />
+            </div>
+            <div class="row content">
+
+                <div class="col-md-6 login">
+                    <div class="div-content">
+                        <h2>LOGIN</h2>
+                        <form class="form-group" ng-submit="$ctrl.login()">
+                            <div class="row">
+                                <div class="col-sm-5 user-name">User name: </div>
+                                <div class="col-sm-6">
+                                    <input class="form-control" ng-model="$ctrl.userLogin.userName" type="text" />
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-5 password">Password:</div>
+                                <div class="col-sm-6">
+                                    <input class="form-control" ng-model="$ctrl.userLogin.password" type="password" />
+                                    <div ng-show="$ctrl.invalidUser" class="error-msg">Invalid user name or password.</div>
+                                </div>
+                            </div>
+                            <div class="row button-div">
+                                <button class="button"> Login </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <div class="col-md-6 sign-in">
+                    <div class="div-content">
+                       
+                        <h2>SIGN IN</h2>
+                        <form class="form-group" ng-submit="$ctrl.signIn()" form data-toggle="validator" role="form">
+                            <div class="row">
+                                <div class="col-sm-5 user-name">Full name: </div>
+                                <div class="col-sm-6">
+                                    <input class="form-control" ng-model="$ctrl.userRegistration.name" type="text" maxlength="20" />
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-5 password">User name:</div>
+                                <div class="col-sm-6">
+                                    <input class="form-control" ng-model="$ctrl.userRegistration.id" type="text"  maxlength="20" />
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-5 password">Password:
+                                    <div class="tooltip">
+                                        [?]
+                                        <span class="tooltiptext">Password need to be 8 characters. <br/> Only letters and numbers. <br/>first character must be uppercase</span>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 ">
+                                    <input class="form-control" ng-model="$ctrl.userRegistration.password" type="password"  maxlength="8" ng-change="$ctrl.checkPasswordValid()"  /> 
+                                    <div ng-show="$ctrl.invalidPassword" class="error-msg">Password is not valid
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-5 password">Email:</div>
+                                <div class="col-sm-6">
+                                    <input class="form-control" ng-model="$ctrl.userRegistration.email" type="email"  />
+                                    <div ng-show="$ctrl.userExsits" class="error-msg">User is allready exists.</div>
+                                    <div ng-show="$ctrl.invalidRegistration" class="error-msg">Some information is missing.</div>
+                                    <div ng-show="$ctrl.invalidCaptcha" class="error-msg">Captcha validation faild. Try again</div>
+                                   
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div vc-recaptcha
+                                     key="'6LcCjwwUAAAAAChBPsrHGWJ_4S4G6a68toU61B6N'"
+                                     ng-model="$ctrl.captcha"></div>
+                            </div>
+                            <div class="row button-div">
+                                <button class="button"> Sign in </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

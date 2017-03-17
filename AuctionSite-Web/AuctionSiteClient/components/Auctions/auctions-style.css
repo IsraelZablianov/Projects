@@ -1,0 +1,217 @@
+﻿.ng-invalid-required {
+  border: none;
+}
+@font-face {
+  font-family: 'Roboto-Regular';
+  src: url('../../resources/fonts/Roboto-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Roboto-light';
+  src: url('../../resources/fonts/Roboto-light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Roboto-Bold';
+  src: url('../../resources/fonts/Roboto-Bold.ttf') format('truetype');
+}
+.auctions .log-out {
+  float: right;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+.auctions .log-out a {
+  float: right;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-decoration: none;
+}
+.auctions .log-out a:hover {
+  cursor: pointer;
+}
+.auctions .categories-container {
+  -webkit-box-shadow: 0 4px 6px -6px #222;
+  -moz-box-shadow: 0 4px 6px -6px #222;
+  box-shadow: 0 4px 6px -6px #222;
+}
+.auctions .page-header {
+  position: fixed;
+  top: 0px;
+  background-color: Window;
+  z-index: 1001;
+  margin: 0px;
+}
+.auctions .category-tab {
+  background-color: #f4f4ed;
+  height: 50px;
+  width: 14.285%;
+  border-right: solid 1px #fff;
+  font-family: Roboto-light;
+  font-size: 12px;
+  float: left;
+  padding-left: 5px;
+  line-height: 50px;
+  cursor: pointer;
+}
+.auctions .category-tab:hover {
+  opacity: 0.7;
+}
+.auctions .category-tab .all-categories-tab {
+  padding-left: 42px;
+}
+@media (max-width: 992px) {
+  .auctions .category-tab {
+    width: 50%;
+  }
+}
+@media (max-width: 768px) {
+  .auctions .category-tab {
+    width: 100%;
+  }
+}
+.auctions .category-tab .category-icon {
+  margin-right: 10px;
+}
+.auctions .category-tab.all-categories-template {
+  border-top: 6px solid #cecec4;
+}
+.auctions .category-tab.electronics-template {
+  border-top: 6px solid #fbbb12;
+}
+.auctions .category-tab.fashion-template {
+  border-top: 6px solid #b31e8d;
+}
+.auctions .category-tab.books-template {
+  border-top: 6px solid #8e59b6;
+}
+.auctions .category-tab.home-template {
+  border-top: 6px solid #2aadad;
+}
+.auctions .category-tab.misc-template {
+  border-top: 6px solid #e87b21;
+}
+.auctions .category-tab.children-template {
+  border-top: 6px solid #e32f65;
+}
+.auctions .category-tab.all-categories-template-selected {
+  border-top: 6px solid #cecec4;
+  background-color: rgba(206, 206, 196, 0.85);
+  color: white;
+}
+.auctions .category-tab.electronics-template-selected {
+  border-top: 6px solid #fbbb12;
+  background-color: rgba(251, 187, 18, 0.85);
+  color: white;
+}
+.auctions .category-tab.fashion-template-selected {
+  border-top: 6px solid #b31e8d;
+  background-color: rgba(179, 30, 141, 0.85);
+  color: white;
+}
+.auctions .category-tab.books-template-selected {
+  border-top: 6px solid #8e59b6;
+  background-color: rgba(142, 89, 182, 0.85);
+  color: white;
+}
+.auctions .category-tab.home-template-selected {
+  background-color: rgba(42, 173, 173, 0.85);
+  border-top: 6px solid #2aadad;
+  color: white;
+}
+.auctions .category-tab.misc-template-selected {
+  border-top: 6px solid #e87b21;
+  background-color: rgba(232, 123, 33, 0.85);
+  color: white;
+}
+.auctions .category-tab.children-template-selected {
+  border-top: 6px solid #e32f65;
+  background-color: rgba(227, 47, 101, 0.85);
+  color: white;
+}
+.auctions .auction-items-container {
+  margin-top: 10px;
+  max-width: 1200px;
+  vertical-align: middle;
+  margin: auto;
+  position: relative;
+}
+.auctions .auction-items-container .no-auctions-txt {
+  font-family: Roboto-light;
+  font-size: 22px;
+  margin: 41px;
+}
+.auctions .auction-items-container .search {
+  margin-top: 10px;
+}
+.auctions .auction-items-container .search #custom-search-input {
+  margin: 0;
+  margin-top: 10px;
+  padding: 0;
+}
+.auctions .auction-items-container .search #custom-search-input .search-query {
+  padding-right: 3px;
+  padding-right: 4px \9;
+  padding-left: 3px;
+  padding-left: 4px \9;
+  /* IE7-8 doesn't have border-radius, so don't indent the padding */
+  margin-bottom: 0;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  float: right;
+}
+.auctions .auction-items-container .search #custom-search-input button {
+  border: 0;
+  background: none;
+  /** belows styles are working good */
+  padding: 2px 5px;
+  margin-top: 2px;
+  position: relative;
+  left: -28px;
+  /* IE7-8 doesn't have border-radius, so don't indent the padding */
+  margin-bottom: 0;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  color: #acb700;
+}
+.auctions .auction-items-container .search .search-query:focus + button {
+  z-index: 3;
+}
+.auctions .category-title {
+  font-size: 35px;
+  margin: 15px 15px 15px 40px;
+  font-family: Roboto-Regular;
+}
+.auctions .auctions-header {
+  height: 50px;
+}
+.auctions .auctions-header .sell-button {
+  background-color: #acb700;
+  border: none;
+  outline: none;
+  width: 110px;
+  height: 26px;
+  color: #ffffff;
+  border-radius: 3px;
+  font-family: "roboto-bold";
+  font-size: 14px;
+  float: right;
+  margin: 12px;
+  box-shadow: 1px #7c7c01;
+}
+.auctions .auctions-header .sell-button:hover {
+  background-color: #a6b100;
+}
+.auctions .auctions-header .user-name {
+  float: right;
+  margin-top: 15px;
+}
+.auctions .auctions-header .logo {
+  margin: auto;
+  margin-left: 20px;
+}
+.modal-place-bid-size {
+  width: 750px;
+}
+.modal-sell-popup-size {
+  width: 1171.4px;
+}

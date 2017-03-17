@@ -1,0 +1,64 @@
+﻿<div class="container-fluid">
+    <div class="row header">
+        <div class="col-md-11 brand-name">
+            <h4>Brand</h4>
+        </div>
+        <div dir="rtl" class="col-md-1 items-counter" ng-cloak>
+            <b>סל קניות</b>
+            <div>{{$ctrl.shopingCartItemsAmount}} מוצרים </div>
+        </div>
+    </div>
+
+    <div class="row comparing-list" ng-show="!$ctrl.reportService.inReportMode">
+        <div class="container">
+            <store-selection products="$ctrl.products" stores-to-compare="$ctrl.storesToCompare">
+            </store-selection>
+        </div>
+    </div>
+
+    <div class="row shoping-cart custom-container" ng-show="!$ctrl.reportService.inReportMode">
+        <shoping-cart products="$ctrl.products" stores-to-compare="$ctrl.storesToCompare"
+                      shoping-cart-items-amount="$ctrl.shopingCartItemsAmount">
+        </shoping-cart>
+    </div>
+
+    <div class="row report-container" ng-show="$ctrl.reportService.inReportMode" ng-cloak>
+        <span><b class="report-msg">השוואת סל המוצרים הנבחר</b></span>
+    </div>
+    <div class="container" ng-show="$ctrl.reportService.inReportMode" ng-cloak>
+        <div class="row box-shadow">
+            <div class="col-md-3 report-box col-lg-push-1"
+                 ng-repeat="store in $ctrl.reportService.stores">
+                <div class="report-cheaper" ng-show="store.productsTotalPrice === $ctrl.reportService.totalCheapestPrice">
+                    <div class="report-right-triangle"></div>
+                    <div class="report-left-triangle"></div>
+                    <span class="middle-text">הזול ביותר</span>
+                </div>
+                <div class="row report-store-name box-shadow">
+                    <select ng-model="store.selectedStore" class="report-store-select">
+                        <option ng-show="!store.selectedStore" value="" selected>{{store.chainName}}</option>
+                    </select>
+                    <select ng-model="store.selectedStore" class="report-store-select">
+                        <option ng-show="!store.selectedStore" value="" selected>{{store.storeName}}</option>
+                    </select>
+                </div>
+                <div class="row report-total-price" ng-class="{'report-cheapest-total-price':store.productsTotalPrice === $ctrl.reportService.totalCheapestPrice}">
+                    <span><b class="bold-number">{{store.productsTotalPrice}}</b></span>
+                </div>
+                <div class="row box-shadow">
+                    <div class="col-md-12" ng-class="{'report-cheap-total-price':store.productsTotalPrice === $ctrl.reportService.totalCheapestPrice}">
+                        <div class="row report-products-row" ng-repeat="product in store.products">
+                            <div class="col-md-6 report-expensive-color">
+                                <span ng-class="{'report-cheap-color':$ctrl.reportService.isProductPriceCheapest(product)}" class="report-products-price">{{product.price}}</span>
+                            </div>
+                            <div class="col-md-6">
+                                <span><b class="report-products-name">{{product.name}}</b></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

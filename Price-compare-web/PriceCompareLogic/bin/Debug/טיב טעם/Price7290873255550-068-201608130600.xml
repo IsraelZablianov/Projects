@@ -1,0 +1,960 @@
+﻿<Root>
+  <XmlDocVersion>19</XmlDocVersion>
+  <ChainId>7290873255550</ChainId>
+  <SubChainId>1</SubChainId>
+  <StoreId>68</StoreId>
+  <BikoretNo>7</BikoretNo>
+  <DllVerNo>9.4.0.21</DllVerNo>
+  <Items Count="50">
+    <Item>
+      <PriceUpdateDate>2014-06-09 12:50:46</PriceUpdateDate>
+      <ItemCode>7290000336053</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>סיידר תרכיז 330 מ"ל</ItemName>
+      <ManufacturerName>טמפו משקאות בעמ</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>סיידר תרכיז 330 בקבוק 24 יח</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>330.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>3.0000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>1931</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2014-06-09 12:55:26</PriceUpdateDate>
+      <ItemCode>4607117890973</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>סוכריות בטונציק רוט</ItemName>
+      <ManufacturerName>רוט פרונט</ManufacturerName>
+      <ManufactureCountry>רוסיה</ManufactureCountry>
+      <ManufacturerItemDescription>סוכריות בטונציק רוט - פרונט 250 גרם</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>250.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>11.90</ItemPrice>
+      <UnitOfMeasurePrice>4.7600</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>13735</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2014-06-09 13:06:10</PriceUpdateDate>
+      <ItemCode>4600300080335</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>סוכריות חלב ציפור 22</ItemName>
+      <ManufacturerName>רוט פרונט</ManufacturerName>
+      <ManufactureCountry>רוסיה</ManufactureCountry>
+      <ManufacturerItemDescription>סוכריות חלב ציפור 225 גרם</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>225.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>11.90</ItemPrice>
+      <UnitOfMeasurePrice>5.2889</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>39706</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2014-10-22 12:27:22</PriceUpdateDate>
+      <ItemCode>8413165084136</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>מרטין סנדויה ריוחה</ItemName>
+      <ManufacturerName>HEREDAD UGARTE</ManufacturerName>
+      <ManufactureCountry>ספרד</ManufactureCountry>
+      <ManufacturerItemDescription>מרטין סנדויה ריוחה רזרב 75 מל</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>750.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>79.90</ItemPrice>
+      <UnitOfMeasurePrice>10.6533</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>38061</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2014-12-18 08:42:45</PriceUpdateDate>
+      <ItemCode>3211203429315</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>ברון דה לסטאק בלאן</ItemName>
+      <ManufacturerName>CASTEL FRERES BLANQU</ManufacturerName>
+      <ManufactureCountry>צרפת</ManufactureCountry>
+      <ManufacturerItemDescription>יין לבן יבש ברון דה לסטאק 75 מל</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>750.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>39.90</ItemPrice>
+      <UnitOfMeasurePrice>5.3200</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>54082</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2014-12-18 08:42:46</PriceUpdateDate>
+      <ItemCode>3211203433220</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>ברון דה לסטאק בורדו</ItemName>
+      <ManufacturerName>CASTEL FRERES BLANQU</ManufacturerName>
+      <ManufactureCountry>צרפת</ManufactureCountry>
+      <ManufacturerItemDescription>יין בורדו ברון דה לסטאק 75 מל</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>750.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>39.90</ItemPrice>
+      <UnitOfMeasurePrice>5.3200</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>33298</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2014-12-18 08:42:46</PriceUpdateDate>
+      <ItemCode>3211203444066</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>קסטל גראן רזרב</ItemName>
+      <ManufacturerName>CASTEL FRERES BLANQU</ManufacturerName>
+      <ManufactureCountry>צרפת</ManufactureCountry>
+      <ManufacturerItemDescription>קסטל גראן רזרב שרדונה 75 מל</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>750.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>39.90</ItemPrice>
+      <UnitOfMeasurePrice>5.3200</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>34944</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2014-12-18 08:42:48</PriceUpdateDate>
+      <ItemCode>3211203444141</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>קסטל גראן רזרב סירה</ItemName>
+      <ManufacturerName>CASTEL FRERES BLANQU</ManufacturerName>
+      <ManufactureCountry>צרפת</ManufactureCountry>
+      <ManufacturerItemDescription>קסטל גראן רזרב סירה 75 מל</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>750.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>39.90</ItemPrice>
+      <UnitOfMeasurePrice>5.3200</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>34947</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-01-05 11:27:08</PriceUpdateDate>
+      <ItemCode>3838945027854</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>מולטי ויטמין פירות א</ItemName>
+      <ManufacturerName>FRUCTAL</ManufacturerName>
+      <ManufactureCountry>סלובניה</ManufactureCountry>
+      <ManufacturerItemDescription>מולטי ויטמין פירות אד. 100% 1 ל FRUCTAL</ManufacturerItemDescription>
+      <UnitQty>ליטרים</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>9.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>64702</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-01-05 11:27:08</PriceUpdateDate>
+      <ItemCode>3838945509015</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>נקטר אוכמניות שחורות</ItemName>
+      <ManufacturerName>FRUCTAL</ManufacturerName>
+      <ManufactureCountry>סלובניה</ManufactureCountry>
+      <ManufacturerItemDescription>נקטר אוכמניות שחורות 25% 1 ל FRUCTAL</ManufacturerItemDescription>
+      <UnitQty>ליטרים</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>9.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>64703</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-01-06 11:08:32</PriceUpdateDate>
+      <ItemCode>3838945029285</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>מיץ אשכולית אדומה 10</ItemName>
+      <ManufacturerName>FRUCTAL</ManufacturerName>
+      <ManufactureCountry>סלובניה</ManufactureCountry>
+      <ManufacturerItemDescription>מיץ אשכולית אדומה 100% 1 ליטר FRUCTAL</ManufacturerItemDescription>
+      <UnitQty>ליטרים</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>9.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>75248</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-01-08 20:31:24</PriceUpdateDate>
+      <ItemCode>3838945509077</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>מיץ אננס 100% 1 ליטר</ItemName>
+      <ManufacturerName>FRUCTAL</ManufacturerName>
+      <ManufactureCountry>סלובניה</ManufactureCountry>
+      <ManufacturerItemDescription>מיץ אננס 100% 1 ליטר FRUCTAL</ManufacturerItemDescription>
+      <UnitQty>ליטרים</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>9.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>75338</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-02-10 18:04:32</PriceUpdateDate>
+      <ItemCode>6001108054036</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>רביעייה סאוונה סיידר</ItemName>
+      <ManufacturerName>DISTELL LIMITED</ManufacturerName>
+      <ManufactureCountry>דרום אפריקה</ManufactureCountry>
+      <ManufacturerItemDescription>רביעייה סאוונה סיידר תפוחים אלכ. 33 מל</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>1320.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>29.90</ItemPrice>
+      <UnitOfMeasurePrice>2.2652</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>77062</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-02-15 11:49:04</PriceUpdateDate>
+      <ItemCode>8002062001522</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>מודלו דלה ונציה מאסי</ItemName>
+      <ManufacturerName>מאסי</ManufacturerName>
+      <ManufactureCountry>איטליה</ManufactureCountry>
+      <ManufacturerItemDescription>מודלו דלה ונציה מאסי</ManufacturerItemDescription>
+      <UnitQty>Unknown </UnitQty>
+      <Quantity>0.00</Quantity>
+      <UnitOfMeasure>Unknown </UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>49.90</ItemPrice>
+      <UnitOfMeasurePrice>0.0000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>943</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-02-15 11:49:05</PriceUpdateDate>
+      <ItemCode>8002062001560</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>מודלו דלה ונציה ביאנ</ItemName>
+      <ManufacturerName>מאסי</ManufacturerName>
+      <ManufactureCountry>איטליה</ManufactureCountry>
+      <ManufacturerItemDescription>מודלו דלה ונציה ביאנקו</ManufacturerItemDescription>
+      <UnitQty>Unknown </UnitQty>
+      <Quantity>0.00</Quantity>
+      <UnitOfMeasure>Unknown </UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>49.90</ItemPrice>
+      <UnitOfMeasurePrice>0.0000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>12157</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-02-19 11:04:28</PriceUpdateDate>
+      <ItemCode>7290013965363</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>יין עמק האלה קברנה פ</ItemName>
+      <ManufacturerName>יקבי עמק האלה (עדולם</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>יין עמק האלה קברנה פרנק 211 75 מל</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>750.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>99.90</ItemPrice>
+      <UnitOfMeasurePrice>13.3200</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>77788</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-03-03 07:50:57</PriceUpdateDate>
+      <ItemCode>7290008493420</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בייגלה קמח מלא 300 ג</ItemName>
+      <ManufacturerName>מאיר בייגל</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>בייגלה קמח מלא 300 גרם</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>300.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>7.90</ItemPrice>
+      <UnitOfMeasurePrice>2.6333</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>22365</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-03-12 17:03:43</PriceUpdateDate>
+      <ItemCode>5018481023574</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>וויסקי גלנלאסי 700 מ</ItemName>
+      <ManufacturerName>J&amp;W HARDIE LTD</ManufacturerName>
+      <ManufactureCountry>סקוטלנד</ManufactureCountry>
+      <ManufacturerItemDescription>וויסקי גלנלאסי 7 מל</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>700.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>65.90</ItemPrice>
+      <UnitOfMeasurePrice>9.4143</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>78889</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-05-12 15:35:59</PriceUpdateDate>
+      <ItemCode>7290013358363</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פירורי לחם פנקו 300</ItemName>
+      <ManufacturerName>מנה  י.א בע"מ</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>מנה פירורי לחם פנקו מוזהבים 300 גרם</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>300.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>3.3000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>50659</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-05-12 15:36:00</PriceUpdateDate>
+      <ItemCode>7290013358370</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פירורי לחם פנקו מוזה</ItemName>
+      <ManufacturerName>מנה  י.א בע"מ</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>מנה פירורי לחם פנקו מוזהבים בטעם שום 300</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>300.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>3.3000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>56657</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-08-10 15:51:47</PriceUpdateDate>
+      <ItemCode>3760060195210</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>דומיין דה קריסטיה</ItemName>
+      <ManufacturerName>SARL GRANGEON ET FIL</ManufacturerName>
+      <ManufactureCountry>צרפת</ManufactureCountry>
+      <ManufacturerItemDescription>דומיין דה קריסטיה גרנש 75 מל</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>750.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>39.90</ItemPrice>
+      <UnitOfMeasurePrice>5.3200</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>46654</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-10-09 08:00:46</PriceUpdateDate>
+      <ItemCode>7290008464697</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>שישיית בירה מכבי 7.9</ItemName>
+      <ManufacturerName>טמפו משקאות בעמ</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>מכבי חזקה 7.9% חפ 330 בקבוק שישייה</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>1980.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>29.90</ItemPrice>
+      <UnitOfMeasurePrice>1.5101</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>72428</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-10-09 08:00:54</PriceUpdateDate>
+      <ItemCode>7290011132514</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>פאולנר בקבוק 330 מ"ל</ItemName>
+      <ManufacturerName>ללא</ManufacturerName>
+      <ManufactureCountry>גרמניה</ManufactureCountry>
+      <ManufacturerItemDescription>פאולנר 330 בקבוק 24 יח</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>330.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>10.90</ItemPrice>
+      <UnitOfMeasurePrice>3.3030</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>21957</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-12-06 16:41:23</PriceUpdateDate>
+      <ItemCode>5410228195825</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>בירה לף רובי 750 מ"ל</ItemName>
+      <ManufacturerName>אינבב</ManufacturerName>
+      <ManufactureCountry>בלגיה</ManufactureCountry>
+      <ManufacturerItemDescription>בירה לף רובי 750 מ"ל בקבוק</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>750.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>24.90</ItemPrice>
+      <UnitOfMeasurePrice>3.3200</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>93320</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2015-12-10 12:23:05</PriceUpdateDate>
+      <ItemCode>7290000024523</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>תירוש של סגל 1 ליטר</ItemName>
+      <ManufacturerName>טמפו משקאות בעמ</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>תירוש של סגל 1 ליטר שביעית</ManufacturerItemDescription>
+      <UnitQty>ליטרים</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>10.90</ItemPrice>
+      <UnitOfMeasurePrice>10.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>93397</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-01-05 11:04:13</PriceUpdateDate>
+      <ItemCode>7290000112237</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>טחינה  1 ק"ג-צנצנת</ItemName>
+      <ManufacturerName>י"              ,</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>טחינה  1 ק"ג-צנצנת</ManufacturerItemDescription>
+      <UnitQty>קילוגרמים</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ק"ג</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>23.90</ItemPrice>
+      <UnitOfMeasurePrice>23.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>156</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-01-05 11:06:00</PriceUpdateDate>
+      <ItemCode>5410228102762</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>בירה לף בלונד 750 מל</ItemName>
+      <ManufacturerName>אינבב</ManufacturerName>
+      <ManufactureCountry>בלגיה</ManufactureCountry>
+      <ManufacturerItemDescription>לף בלונד 750 מל</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>750.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>24.90</ItemPrice>
+      <UnitOfMeasurePrice>3.3200</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>8369</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-01-05 11:06:01</PriceUpdateDate>
+      <ItemCode>5410228145226</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>בירה לף ברון 750 מ"ל</ItemName>
+      <ManufacturerName>אינבב</ManufacturerName>
+      <ManufactureCountry>בלגיה</ManufactureCountry>
+      <ManufacturerItemDescription>לף ברון 750 מל</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>750.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>24.90</ItemPrice>
+      <UnitOfMeasurePrice>3.3200</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>8370</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-01-05 11:06:01</PriceUpdateDate>
+      <ItemCode>5410228158424</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>בירה הוגרדן 750 מ"ל</ItemName>
+      <ManufacturerName>אינבב</ManufacturerName>
+      <ManufactureCountry>בלגיה</ManufactureCountry>
+      <ManufacturerItemDescription>הוגרדן 750 מל</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>750.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>24.90</ItemPrice>
+      <UnitOfMeasurePrice>3.3200</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>42854</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-03-01 11:45:50</PriceUpdateDate>
+      <ItemCode>9002859051432</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>גונץ- שוקולד חלב צימ</ItemName>
+      <ManufacturerName>GUNZ</ManufacturerName>
+      <ManufactureCountry>אוסטריה</ManufactureCountry>
+      <ManufacturerItemDescription>גונץ- שוקולד חלב צימוקים-אגוזים 300 גרם</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>300.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>12.90</ItemPrice>
+      <UnitOfMeasurePrice>4.3000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>96780</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-03-02 14:16:23</PriceUpdateDate>
+      <ItemCode>9002859042614</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>גונץ-שוקולד זהב חלב</ItemName>
+      <ManufacturerName>GUNZ</ManufacturerName>
+      <ManufactureCountry>אוסטריה</ManufactureCountry>
+      <ManufacturerItemDescription>גונץ-שוקולד זהב חלב 300 גר</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>300.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>12.90</ItemPrice>
+      <UnitOfMeasurePrice>4.3000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>96789</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-03-02 14:16:23</PriceUpdateDate>
+      <ItemCode>9002859042676</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>גונץ-שוקולד מריר זהב</ItemName>
+      <ManufacturerName>GUNZ</ManufacturerName>
+      <ManufactureCountry>אוסטריה</ManufactureCountry>
+      <ManufacturerItemDescription>גונץ-שוקולד מריר זהב 300 גר</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>300.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>12.90</ItemPrice>
+      <UnitOfMeasurePrice>4.3000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>96790</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-03-02 14:16:23</PriceUpdateDate>
+      <ItemCode>9002859089619</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>גונץ-שוקולד חלב עם ע</ItemName>
+      <ManufacturerName>GUNZ</ManufacturerName>
+      <ManufactureCountry>אוסטריה</ManufactureCountry>
+      <ManufacturerItemDescription>גונץ-שוקולד חלב עם עוגיות 300 גרם</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>300.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>12.90</ItemPrice>
+      <UnitOfMeasurePrice>4.3000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>96791</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-03-24 10:46:07</PriceUpdateDate>
+      <ItemCode>5018481181281</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>וויסקי סקוטי ביג טי</ItemName>
+      <ManufacturerName>J&amp;W HARDIE LTD</ManufacturerName>
+      <ManufactureCountry>סקוטלנד</ManufactureCountry>
+      <ManufacturerItemDescription>וויסקי סקוטי ביג טי 700 מ"ל</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>750.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>65.90</ItemPrice>
+      <UnitOfMeasurePrice>8.7867</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>97895</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-04-03 12:44:30</PriceUpdateDate>
+      <ItemCode>7290011468057</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>טחינה הנסיך 100% טחו</ItemName>
+      <ManufacturerName>הנסיך מפעל טחינה ליי</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>טחינה הנסיך 100% טחור 1 ק"ג</ManufacturerItemDescription>
+      <UnitQty>קילוגרמים</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ק"ג</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>21.90</ItemPrice>
+      <UnitOfMeasurePrice>21.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>23835</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-04-06 18:04:26</PriceUpdateDate>
+      <ItemCode>7290015634113</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>יין עמק האלה רוזה 20</ItemName>
+      <ManufacturerName>יקבי עמק האלה (עדולם</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>יין עמק האלה רוזה 2015 750 מ"ל</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>750.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>44.90</ItemPrice>
+      <UnitOfMeasurePrice>5.9867</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>97832</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-05-31 15:38:28</PriceUpdateDate>
+      <ItemCode>2692478</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>שמן זית כתית מעולה ב</ItemName>
+      <ManufacturerName>שמן תעשיות</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>שמן זית כתית מעולה מעודן 750 מל עץ-הזית</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>750.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>29.90</ItemPrice>
+      <UnitOfMeasurePrice>3.9867</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>78043</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-06-07 14:15:48</PriceUpdateDate>
+      <ItemCode>7290001407936</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>בארכה טחינה מעודנת 3</ItemName>
+      <ManufacturerName>רושדי תעשיות מזון</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>בארכה טחינה מעודנת 310 גרם</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>310.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>3.1935</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>100780</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-07-04 10:37:06</PriceUpdateDate>
+      <ItemCode>3807178</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>רוטב קנור סויה בסגנו</ItemName>
+      <ManufacturerName>אתר חיפה  778 - Food</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>קנור רוטב סויה בסגנון סיני 370 גרם</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>300.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>3.3000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>21143</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-07-04 10:37:26</PriceUpdateDate>
+      <ItemCode>7290000116945</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>רוטב קנור סויה 300 מ</ItemName>
+      <ManufacturerName>אתר חיפה  778 - Food</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>קנור רוטב סויה בסגנון סיני 370 גרם</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>300.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>3.3000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>8252</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-07-04 10:37:26</PriceUpdateDate>
+      <ItemCode>7290000116921</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>רוטב קנור צילי מתוק</ItemName>
+      <ManufacturerName>אתר חיפה  778 - Food</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>רוטב צילי מתוק 380 גר</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>300.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>3.3000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>8363</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-07-04 10:37:28</PriceUpdateDate>
+      <ItemCode>7290000122830</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>רוטב בישול סצואן 370</ItemName>
+      <ManufacturerName>אתר חיפה  778 - Food</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>רוטב סצואן 370 גר</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>370.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>2.6757</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>9671</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-07-04 10:37:35</PriceUpdateDate>
+      <ItemCode>7290000168418</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>רוטב קנור סויה סיגנו</ItemName>
+      <ManufacturerName>אתר חיפה  778 - Food</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>קנור סויה בסגנון סיני מופחת נתרן 360 ג</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>300.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>3.3000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>56911</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-07-04 10:37:35</PriceUpdateDate>
+      <ItemCode>7290000168425</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>רוטב קנור צילי מתוק</ItemName>
+      <ManufacturerName>אתר חיפה  778 - Food</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>קנור רוטבי תיבול צילי מופחת סוכר 370 ג</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>300.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>3.3000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>56912</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-07-04 10:37:48</PriceUpdateDate>
+      <ItemCode>7290100249581</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>קנור רוטב שזיפים לעו</ItemName>
+      <ManufacturerName>אתר חיפה  778 - Food</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>קנור בישול ברטבים שזיף 320 גרם</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>320.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>3.0938</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>40216</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-07-04 10:37:49</PriceUpdateDate>
+      <ItemCode>7290100249598</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>קנור רוטב שום ודבש 3</ItemName>
+      <ManufacturerName>אתר חיפה  778 - Food</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>קנור בישול ברטבים שום ודבש 320 גרם</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>320.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>3.0938</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>40213</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-07-04 10:37:50</PriceUpdateDate>
+      <ItemCode>7290100249628</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>קנור רוטב ברביקיו סו</ItemName>
+      <ManufacturerName>אתר חיפה  778 - Food</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>קנור רטבים ברביקיו סויה ודבש 310 גרם</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>320.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>3.0938</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>40212</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-07-04 10:37:50</PriceUpdateDate>
+      <ItemCode>7290100249611</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>קנור רוטב לבישול שום</ItemName>
+      <ManufacturerName>אתר חיפה  778 - Food</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>קנור בישול ברטבים עשבי שום 320 גרם</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>320.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>3.0938</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>40215</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-07-04 10:37:52</PriceUpdateDate>
+      <ItemCode>7290100249659</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>קנור רוטב צילי שום 3</ItemName>
+      <ManufacturerName>י"              ,</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>קנור רוטב צילי שום 320 גרם</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>320.00</Quantity>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>3.0938</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>40210</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-07-04 10:37:54</PriceUpdateDate>
+      <ItemCode>7290107643832</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>רוטב פאד תאי בסגנון</ItemName>
+      <ManufacturerName>אתר חיפה  778 - Food</ManufacturerName>
+      <ManufactureCountry>ישראל</ManufactureCountry>
+      <ManufacturerItemDescription>רוטב פאד תאי בסגנון תאילנדי 300 מ"ל קנור</ManufacturerItemDescription>
+      <UnitQty>מיליליטרים</UnitQty>
+      <Quantity>300.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>9.90</ItemPrice>
+      <UnitOfMeasurePrice>3.3000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>98753</ItemId>
+    </Item>
+  </Items>
+</Root>

@@ -1,0 +1,131 @@
+c:\users\israel\documents\visual studio 2015\Projects\PriceCompare\PriceCompare\bin\Debug\PriceCompare.exe.config
+c:\users\israel\documents\visual studio 2015\Projects\PriceCompare\PriceCompare\bin\Debug\PriceCompare.exe
+c:\users\israel\documents\visual studio 2015\Projects\PriceCompare\PriceCompare\bin\Debug\PriceCompare.pdb
+c:\users\israel\documents\visual studio 2015\Projects\PriceCompare\PriceCompare\obj\Debug\PriceCompare.csprojResolveAssemblyReference.cache
+c:\users\israel\documents\visual studio 2015\Projects\PriceCompare\PriceCompare\obj\Debug\PriceCompare.Properties.Resources.resources
+c:\users\israel\documents\visual studio 2015\Projects\PriceCompare\PriceCompare\obj\Debug\PriceCompare.csproj.GenerateResource.Cache
+c:\users\israel\documents\visual studio 2015\Projects\PriceCompare\PriceCompare\obj\Debug\PriceCompare.exe
+c:\users\israel\documents\visual studio 2015\Projects\PriceCompare\PriceCompare\obj\Debug\PriceCompare.pdb
+c:\users\israel\documents\visual studio 2015\Projects\PriceCompare\PriceCompare\obj\Debug\PriceCompare.PriceCompareDialog.resources
+c:\users\israel\documents\visual studio 2015\Projects\PriceCompare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-2-201608130003.xml
+c:\users\israel\documents\visual studio 2015\Projects\PriceCompare\PriceCompare\bin\Debug\קואופ\Stores7290633800006-201608122240.xml
+c:\users\israel\documents\visual studio 2015\Projects\PriceCompare\PriceCompare\bin\Debug\חצי חינם\Stores7290700100008-201608122005.xml
+c:\users\israel\documents\visual studio 2015\Projects\PriceCompare\PriceCompare\bin\Debug\טיב טעם\Price7290873255550-002-201608121000.xml
+c:\users\israel\documents\visual studio 2015\Projects\PriceCompare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-002-201608120010.xml
+c:\users\israel\documents\visual studio 2015\Projects\PriceCompare\PriceCompare\bin\Debug\טיב טעם\Stores7290873255550-201608112005.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\PriceCompare.exe.config
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\obj\Debug\PriceCompare.exe
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\obj\Debug\PriceCompare.pdb
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\Stores7290633800006-201608122240.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\חצי חינם\Stores7290700100008-201608122005.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\Stores7290873255550-201608112005.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\PriceCompare.exe
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\PriceCompare.pdb
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\obj\Debug\PriceCompare.csprojResolveAssemblyReference.cache
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\obj\Debug\PriceCompare.PriceCompareDialog.resources
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\obj\Debug\PriceCompare.Properties.Resources.resources
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\obj\Debug\PriceCompare.csproj.GenerateResource.Cache
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\LogFiles\LoadingNamesFromFilesLog.txt
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\חצי חינם\Price7290700100008-002-201608130800.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\חצי חינם\Price7290700100008-004-201608130800.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\חצי חינם\Price7290700100008-005-201608130800.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\חצי חינם\Price7290700100008-006-201608130800.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\חצי חינם\Price7290700100008-009-201608130800.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\חצי חינם\PriceFull7290700100008-001-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\חצי חינם\PriceFull7290700100008-002-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\חצי חינם\PriceFull7290700100008-004-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\חצי חינם\PriceFull7290700100008-005-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\חצי חינם\PriceFull7290700100008-006-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\חצי חינם\PriceFull7290700100008-009-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\חצי חינם\PriceFull7290700100008-010-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\Price7290873255550-002-201608131300.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\Price7290873255550-003-201608131300.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\Price7290873255550-012-201608131000.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\Price7290873255550-014-201608131000.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\Price7290873255550-019-201608130900.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\Price7290873255550-051-201608131000.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\Price7290873255550-056-201608131200.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\Price7290873255550-068-201608130600.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-002-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-003-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-005-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-006-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-007-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-010-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-014-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-015-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-017-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-018-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-019-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-020-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-050-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-056-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-057-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-058-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-059-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-060-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-061-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-062-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-063-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-065-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-067-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-068-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-070-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-071-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-081-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\PriceCompareDialog.resx
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\PriceCompareDialog.cs
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\PriceCompareDialog.Designer.cs
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\חצי חינם\PriceFull7290700100008-007-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\חצי חינם\PriceFull7290700100008-008-201608130010.xml
+C:\Users\israel\Documents\visual studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\חצי חינם\PriceFull7290700100008-017-201608130010.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-002-201608130003.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-003-201608131437.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-004-201608131437.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-005-201608131437.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-007-201608131437.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-008-201608131437.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-010-201608131437.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-011-201608131437.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-012-201608131437.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-013-201608131437.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-017-201608131438.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-018-201608131438.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-020-201608131438.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-022-201608131438.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-023-201608131438.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-030-201608131438.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-031-201608131438.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-038-201608131438.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-039-201608131438.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-041-201608131438.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-042-201608131438.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-043-201608131438.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-044-201608131438.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-045-201608131438.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-046-201608131438.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-047-201608131439.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-048-201608131439.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-050-201608131439.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-054-201608131439.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-060-201608131439.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-061-201608131439.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-063-201608131439.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-064-201608131439.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-065-201608131439.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-066-201608131439.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-067-201608131440.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-068-201608131440.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-077-201608131440.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-089-201608131440.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\קואופ\PricesFull7290633800006-090-201608131440.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-012-201608130010.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-013-201608130010.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-021-201608130010.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-030-201608130010.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-051-201608130010.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-052-201608130010.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-054-201608130010.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\bin\Debug\טיב טעם\PriceFull7290873255550-055-201608130010.xml
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\obj\Debug\PriceCompare.Report.resources
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\Final Project - Price Compare\PriceCompare\obj\Debug\PriceCompare.QuantitySelectionForm.resources

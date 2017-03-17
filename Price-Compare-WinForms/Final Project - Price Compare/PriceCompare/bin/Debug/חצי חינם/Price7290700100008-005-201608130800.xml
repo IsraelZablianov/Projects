@@ -1,0 +1,67 @@
+﻿<Root>
+  <XmlDocVersion>19</XmlDocVersion>
+  <ChainId>7290700100008</ChainId>
+  <SubChainId>1</SubChainId>
+  <StoreId>5</StoreId>
+  <BikoretNo>2</BikoretNo>
+  <DllVerNo>9.4.0.21</DllVerNo>
+  <Items Count="3">
+    <Item>
+      <PriceUpdateDate>2016-07-12 16:19:27</PriceUpdateDate>
+      <ItemCode>7290102397617</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>יוגורט מיקס מולר קלי</ItemName>
+      <ManufacturerName>לא ידוע</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>יוגורט מיקס מולר קלי</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>170.00</Quantity>
+      <UnitOfMeasure>00000000000000000גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>5.40</ItemPrice>
+      <UnitOfMeasurePrice>0.0318</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>1367655</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-07-18 09:57:38</PriceUpdateDate>
+      <ItemCode>7290014762039</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מוס YOLO עם שוקולד ח</ItemName>
+      <ManufacturerName>לא ידוע</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>מוס YOLO עם שוקולד ח</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>78.00</Quantity>
+      <UnitOfMeasure>00000000000000000גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>3.90</ItemPrice>
+      <UnitOfMeasurePrice>0.0500</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>1372399</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-07-18 09:57:38</PriceUpdateDate>
+      <ItemCode>7290014762046</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>מוס YOLO עם שוקולד ל</ItemName>
+      <ManufacturerName>לא ידוע</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>מוס YOLO עם שוקולד ל</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>78.00</Quantity>
+      <UnitOfMeasure>00000000000000000גרם</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>3.90</ItemPrice>
+      <UnitOfMeasurePrice>0.0500</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>1372400</ItemId>
+    </Item>
+  </Items>
+</Root>

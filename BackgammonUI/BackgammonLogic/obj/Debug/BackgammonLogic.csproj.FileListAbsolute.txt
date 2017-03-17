@@ -1,0 +1,10 @@
+c:\users\israel\documents\visual studio 2015\Projects\BackgammonUI\BackgammonLogic\bin\Debug\BackgammonLogic.dll
+c:\users\israel\documents\visual studio 2015\Projects\BackgammonUI\BackgammonLogic\bin\Debug\BackgammonLogic.pdb
+c:\users\israel\documents\visual studio 2015\Projects\BackgammonUI\BackgammonLogic\obj\Debug\BackgammonLogic.csprojResolveAssemblyReference.cache
+c:\users\israel\documents\visual studio 2015\Projects\BackgammonUI\BackgammonLogic\obj\Debug\BackgammonLogic.dll
+c:\users\israel\documents\visual studio 2015\Projects\BackgammonUI\BackgammonLogic\obj\Debug\BackgammonLogic.pdb
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUI\BackgammonLogic\bin\Debug\BackgammonLogic.dll
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUI\BackgammonLogic\bin\Debug\BackgammonLogic.pdb
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUI\BackgammonLogic\obj\Debug\BackgammonLogic.csprojResolveAssemblyReference.cache
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUI\BackgammonLogic\obj\Debug\BackgammonLogic.dll
+C:\Users\israel\Documents\Visual Studio 2015\Projects\DotNetCourse\BackgammonUI\BackgammonLogic\obj\Debug\BackgammonLogic.pdb

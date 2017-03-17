@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MailSenderService.MailSenderService" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAAAAAEICAACACABAAAAAAAEAAAACAAAA=</HashCode>
+      <FileName>MailSenderService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="MailSenderService.ServiceStatus" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAggAAAAAAAAAAQAAAAAEQAAAAAIAAAAAQAA=</HashCode>
+      <FileName>MailSenderService.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="MailSenderService.ServiceState" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAACBAAAAAIAAAAAAAACAAAgAAAAAEAAAAAA=</HashCode>
+      <FileName>MailSenderService.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

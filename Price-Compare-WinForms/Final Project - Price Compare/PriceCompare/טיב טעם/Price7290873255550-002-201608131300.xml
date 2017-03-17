@@ -1,0 +1,29 @@
+﻿<Root>
+  <XmlDocVersion>19</XmlDocVersion>
+  <ChainId>7290873255550</ChainId>
+  <SubChainId>1</SubChainId>
+  <StoreId>2</StoreId>
+  <BikoretNo>1</BikoretNo>
+  <DllVerNo>9.4.0.21</DllVerNo>
+  <Items Count="1">
+    <Item>
+      <PriceUpdateDate>2016-08-13 12:20:43</PriceUpdateDate>
+      <ItemCode>7290101500490</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>בייבי בצל ירוק ארוז</ItemName>
+      <ManufacturerName>י"              ,</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>בייבי בצל ירוק ארוז</ManufacturerItemDescription>
+      <UnitQty>Unknown </UnitQty>
+      <Quantity>0.00</Quantity>
+      <UnitOfMeasure>Unknown </UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>5.90</ItemPrice>
+      <UnitOfMeasurePrice>0.0000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>64190</ItemId>
+    </Item>
+  </Items>
+</Root>

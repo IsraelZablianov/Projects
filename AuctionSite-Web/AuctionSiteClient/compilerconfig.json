@@ -1,0 +1,26 @@
+﻿[
+  {
+    "outputFile": "Style.css",
+    "inputFile": "Style.less"
+  },
+  {
+    "outputFile": "components/Auction-item/auction-item-style.css",
+    "inputFile": "components/Auction-item/auction-item-style.less"
+  },
+  {
+    "outputFile": "components/Auctions/auctions-style.css",
+    "inputFile": "components/Auctions/auctions-style.less"
+  },
+  {
+    "outputFile": "components/Place-bid/place-bid-style.css",
+    "inputFile": "components/Place-bid/place-bid-style.less"
+  },
+  {
+    "outputFile": "components/Sell-popup/sell-popup-style.css",
+    "inputFile": "components/Sell-popup/sell-popup-style.less"
+  },
+  {
+    "outputFile": "components/User-Login/user-login-style.css",
+    "inputFile": "components/User-Login/user-login-style.less"
+  }
+]

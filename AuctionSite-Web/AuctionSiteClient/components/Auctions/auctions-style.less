@@ -1,0 +1,244 @@
+﻿@import "../../Style.less";
+
+.auctions {
+
+    .log-out {
+        float: right;
+        margin-top: 15px;
+        margin-left: 10px;
+
+        a {
+            float: right;
+            margin-left: 10px;
+            margin-right: 10px;
+            text-decoration: none;
+
+            &:hover {
+                cursor: pointer;
+            }
+        }
+    }
+
+    .categories-container {
+        -webkit-box-shadow: 0 4px 6px -6px #222;
+        -moz-box-shadow: 0 4px 6px -6px #222;
+        box-shadow: 0 4px 6px -6px #222;
+    }
+
+    .page-header{
+        position:fixed;
+        top:0px;
+        background-color:Window;
+        z-index:1001;
+        margin: 0px;
+                     }
+    .category-tab {
+        background-color: #f4f4ed;
+        height: 50px;
+        width: 14.285%;
+        border-right: solid 1px #fff;
+        font-family: Roboto-light;
+        font-size: 12px;
+        float: left;
+        padding-left: 5px;
+        line-height: 50px;
+        cursor: pointer;
+
+        &:hover {
+            opacity: 0.7;
+        }
+
+        .all-categories-tab {
+            padding-left: 42px;
+        }
+
+        @media (max-width: 992px) {
+            width: 50%;
+        }
+
+        @media (max-width: 768px) {
+            width: 100%;
+        }
+
+        .category-icon {
+            margin-right: 10px;
+        }
+    }
+
+
+    .category-tab.all-categories-template {
+        border-top: 6px solid @all-categories-color;
+    }
+
+    .category-tab.electronics-template {
+        border-top: 6px solid @electronics-color;
+    }
+
+    .category-tab.fashion-template {
+        border-top: 6px solid @fashion-color;
+    }
+
+    .category-tab.books-template {
+        border-top: 6px solid @books-color;
+    }
+
+    .category-tab.home-template {
+        border-top: 6px solid @home-color;
+    }
+
+    .category-tab.misc-template {
+        border-top: 6px solid @misc-color;
+    }
+
+    .category-tab.children-template {
+        border-top: 6px solid @children-color;
+    }
+
+    .category-tab.all-categories-template-selected {
+        border-top: 6px solid @all-categories-color;
+        background-color: fade(@all-categories-color, 85%);
+        color: white;
+    }
+
+    .category-tab.electronics-template-selected {
+        border-top: 6px solid @electronics-color;
+        background-color: fade(@electronics-color, 85%);
+        color: white;
+    }
+
+    .category-tab.fashion-template-selected {
+        border-top: 6px solid @fashion-color;
+        background-color: fade(@fashion-color, 85%);
+        color: white;
+    }
+
+    .category-tab.books-template-selected {
+        border-top: 6px solid @books-color;
+        background-color: fade(@books-color, 85%);
+        color: white;
+    }
+
+    .category-tab.home-template-selected {
+        background-color: fade(@home-color, 85%);
+        border-top: 6px solid @home-color;
+        color: white;
+    }
+
+    .category-tab.misc-template-selected {
+        border-top: 6px solid @misc-color;
+        background-color: fade(@misc-color, 85%);
+        color: white;
+    }
+
+    .category-tab.children-template-selected {
+        border-top: 6px solid @children-color;
+        background-color: fade(@children-color, 85%);
+        color: white;
+    }
+
+    .auction-items-container {
+        margin-top: 10px;
+        max-width: 1200px;
+        vertical-align: middle;
+        margin: auto;
+        position:relative;
+        .no-auctions-txt {
+            font-family: Roboto-light;
+            font-size: 22px;
+            margin: 41px;
+        }
+
+        .search {
+       margin-top: 10px;
+
+#custom-search-input {
+        margin:0;
+        margin-top: 10px;
+        padding: 0;
+    }
+ 
+    #custom-search-input .search-query {
+        padding-right: 3px;
+        padding-right: 4px \9;
+        padding-left: 3px;
+        padding-left: 4px \9;
+        /* IE7-8 doesn't have border-radius, so don't indent the padding */
+ 
+        margin-bottom: 0;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+        float:right;
+    }
+ 
+    #custom-search-input button {
+        border: 0;
+        background: none;
+        /** belows styles are working good */
+        padding: 2px 5px;
+        margin-top: 2px;
+        position: relative;
+        left: -28px;
+        /* IE7-8 doesn't have border-radius, so don't indent the padding */
+        margin-bottom: 0;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+        color:#acb700;
+    }
+ .input-group-btn{
+ }
+    .search-query:focus + button {
+        z-index: 3;   
+    }
+
+        }
+    }
+
+    .category-title {
+        font-size: 35px;
+        margin: 15px 15px 15px 40px;
+        font-family: Roboto-Regular;
+    }
+
+    .auctions-header {
+        height: 50px;
+
+        .sell-button {
+            background-color: #acb700;
+            border: none;
+            outline: none;
+            width: 110px;
+            height: 26px;
+            color: #ffffff;
+            border-radius: 3px;
+            font-family: "roboto-bold";
+            font-size: 14px;
+            float: right;
+            margin: 12px;
+            box-shadow: 1px #7c7c01;
+
+            &:hover {
+                background-color: #a6b100;
+            }
+        }
+
+        .user-name {
+            float: right;
+            margin-top: 15px;
+        }
+
+        .logo {
+            margin: auto;
+            margin-left: 20px;
+        }
+    }
+}
+
+.modal-place-bid-size {
+    width: 750px;
+}
+
+.modal-sell-popup-size {
+    width: 1171.4px;
+}

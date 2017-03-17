@@ -1,0 +1,22 @@
+﻿[
+  {
+    "outputFile": "index-main-app/StyleSheet.css",
+    "inputFile": "index-main-app/StyleSheet.less"
+  },
+  {
+    "outputFile": "pages/about/about.css",
+    "inputFile": "pages/about/about.less"
+  },
+  {
+    "outputFile": "index-main-app/main-app/newCss.css",
+    "inputFile": "index-main-app/main-app/newCss.less"
+  },
+  {
+    "outputFile": "index-main-app/main-app/new-css.css",
+    "inputFile": "index-main-app/main-app/new-css.less"
+  },
+  {
+    "outputFile": "index-main-app/new-css.css",
+    "inputFile": "index-main-app/new-css.less"
+  }
+]

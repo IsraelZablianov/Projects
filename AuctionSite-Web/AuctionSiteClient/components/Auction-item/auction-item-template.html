@@ -1,0 +1,31 @@
+﻿<div class="auction-item">
+    <div ng-if="$ctrl.deleting" class="deleting">
+        <div class="spiner"></div>
+    </div>
+    <div ng-show="!$ctrl.deleting">
+        <span class="auction-item-price-popup">
+            <span class="auction-item-bid-price">ILS {{$ctrl.currentPrice()}}</span>
+            <span class="auction-item-bid">
+                {{$ctrl.currentPrice() === $ctrl.auction.startBid ? 'be the first bidder!': $ctrl.auction.bidCount + ' bids'}}
+            </span>
+        </span>
+
+        <span class="auction-item-delete-popup" ng-show="$ctrl.isAuctionOfCurrentSeller()">
+            <a class="close" ng-click="$ctrl.onDeleteItemClick($event)">&#10006;</a>
+        </span>
+        <div class="auction-item-up">
+            <img ng-src="{{$ctrl.auction.picture1}}" alt="{{$ctrl.auction.title}}" title="{{$ctrl.auction.title}}" fallback-src="../../resources/images/no_image_available.jpg" class="auction-item-img" />
+        </div>
+
+        <div class="auction-item-bottom">
+            <div class="auction-item-info">{{$ctrl.auction.title.length > 35 ? $ctrl.auction.title.substring(0, 35) + '...' : $ctrl.auction.title }}</div>
+            <div class="auction-item-info">{{$ctrl.auction.description.length > 35 ? $ctrl.auction.description.substring(0, 35) + '...' : $ctrl.auction.description}}</div>
+            <div class="auction-item-seller-info">
+                <span class="seller-name">selller: <a ng-click="$ctrl.onEmailClick($event)" href="mailto:{{$ctrl.auction.user.email}}" class="auction-item-seller-name"> {{$ctrl.auction.user.name}} <img class="auction-item-email-img" src="../resources/images/email.png" /></a></span>
+                <span class="auction-item-time-left">{{$ctrl.timeLeft}} left</span>
+            </div>
+            <div class="auction-item-line-color" ng-class="$ctrl.categoriesService.matchTemplate($ctrl.auction.category)">
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,192 @@
+﻿@import "../../Style.less";
+
+.auction-item {
+    border: 1px solid #eaeaea;
+    width: 258px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+
+    &:hover {
+        cursor: pointer;
+        opacity: 0.7;
+    }
+
+    .auction-item-bottom {
+        position: relative;
+        height: 80px;
+        padding-top: 9px;
+        padding-bottom: 9px;
+        padding-left: 6px;
+        padding-right: 6px;
+    }
+
+    .auction-item-up {
+        width: 257px;
+        height: 210px;
+        position: relative;
+        border-bottom: 1px solid #eaeaea;
+    }
+
+    .auction-item-info {
+        font-size: 13px;
+        color: #5b5b5b;
+        font-family: 'Roboto-Regular';
+    }
+
+    .auction-item-img {
+        max-width: 255px;
+        top: 50%;
+        left: 50%;
+        position: relative;
+        transform: translateY(-50%) translateX(-50%);
+        max-height: 200px;
+    }
+
+    .auction-item-time-left {
+        float: right;
+        color: #7c7c7c;
+        font-size: 11px;
+        font-family: "roboto-light";
+        top: 11px;
+        position: relative;
+    }
+
+    .seller-name {
+        color: #5b5b5b;
+        font-size: 12px;
+        font-family: "roboto-light";
+        top: 5px;
+        position: relative;
+    }
+
+    .auction-item-seller-name {
+        color: #097dd3;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    .auction-item-seller-info {
+    }
+
+    .auction-item-email-img {
+        margin-left: 5px;
+        position: relative;
+    }
+
+    .auction-item-line-color {
+        width: 257px;
+        height: 6px;
+        left: -6px;
+        top: 9px;
+        position: relative;
+    }
+
+    .electronics-template {
+        background-color: @electronics-color;
+    }
+
+    .fashion-template {
+        background-color: @fashion-color;
+    }
+
+    .home-template {
+        background-color: @home-color;
+    }
+
+    .books-template {
+        background-color: @books-color;
+    }
+
+    .children-template {
+        background-color: @children-color;
+    }
+
+    .misc-template {
+        background-color: @misc-color;
+    }
+
+    .auction-item-price-popup {
+        position: absolute;
+        opacity: .84;
+        background-color: #000;
+        height: 50px;
+        width: 115px;
+        color: white;
+        padding-left: 9px;
+        padding-top: 9px;
+        padding-right: 9px;
+        padding-bottom: 7px;
+        z-index: 100;
+    }
+
+    .close {
+        color: white;
+        opacity: 0.7;
+
+        &:hover {
+            opacity: 1;
+        }
+    }
+
+    .auction-item-delete-popup {
+        position: absolute;
+        opacity: .84;
+        background-color: #000;
+        height: 50px;
+        width: 50px;
+        z-index: 100;
+        left: 263px;
+        margin: 0px;
+        padding: 15px;
+    }
+
+    .auction-item-bid {
+        font-family: "roboto-light";
+        font-size: 11px;
+        color: #bababa;
+        display: flex;
+    }
+
+    .auction-item-bid-price {
+        font-family: "roboto bold";
+        font-size: 17px;
+        color: white;
+    }
+    .deleting{
+      width: 257px;
+    height: 210px;
+    .spiner {
+    border: 16px solid @home-color;
+    border-radius: 50%;
+    border-top: 16px solid @children-color;
+    border-right: 16px solid @books-color;
+    border-bottom: 16px solid @misc-color;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+    margin: auto;
+    margin-top: 30%;
+    }
+            }
+
+    @-webkit-keyframes spin {
+        0% {
+            -webkit-transform: rotate(0deg);
+        }
+
+        100% {
+            -webkit-transform: rotate(360deg);
+        }
+    }
+
+    @keyframes spin {
+        0% {
+            transform: rotate(0deg);
+        }
+
+        100% {
+            transform: rotate(360deg);
+        }
+    }
+}

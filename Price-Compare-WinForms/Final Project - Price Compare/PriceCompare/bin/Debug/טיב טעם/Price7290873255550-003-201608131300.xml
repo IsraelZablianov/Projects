@@ -1,0 +1,48 @@
+﻿<Root>
+  <XmlDocVersion>19</XmlDocVersion>
+  <ChainId>7290873255550</ChainId>
+  <SubChainId>1</SubChainId>
+  <StoreId>3</StoreId>
+  <BikoretNo>8</BikoretNo>
+  <DllVerNo>9.4.0.21</DllVerNo>
+  <Items Count="2">
+    <Item>
+      <PriceUpdateDate>2016-08-13 12:31:50</PriceUpdateDate>
+      <ItemCode>220</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>אפרסק</ItemName>
+      <ManufacturerName>י"              ,</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>עודד אפרס</ManufacturerItemDescription>
+      <UnitQty>קילוגרמים</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ק"ג</UnitOfMeasure>
+      <bIsWeighted>1</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>14.90</ItemPrice>
+      <UnitOfMeasurePrice>14.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>3328</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-08-13 12:32:03</PriceUpdateDate>
+      <ItemCode>5942</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>תפוע ליידי</ItemName>
+      <ManufacturerName>י"              ,</ManufacturerName>
+      <ManufactureCountry>לא ידוע</ManufactureCountry>
+      <ManufacturerItemDescription>פינק ליידי</ManufacturerItemDescription>
+      <UnitQty>קילוגרמים</UnitQty>
+      <Quantity>1.00</Quantity>
+      <UnitOfMeasure>ק"ג</UnitOfMeasure>
+      <bIsWeighted>1</bIsWeighted>
+      <QtyInPackage>לא ידוע</QtyInPackage>
+      <ItemPrice>17.90</ItemPrice>
+      <UnitOfMeasurePrice>17.9000</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>50680</ItemId>
+    </Item>
+  </Items>
+</Root>

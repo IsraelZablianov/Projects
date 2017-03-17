@@ -1,0 +1,86 @@
+﻿<Root>
+  <XmlDocVersion>19</XmlDocVersion>
+  <ChainId>7290873255550</ChainId>
+  <SubChainId>1</SubChainId>
+  <StoreId>12</StoreId>
+  <BikoretNo>0</BikoretNo>
+  <DllVerNo>9.4.0.21</DllVerNo>
+  <Items Count="4">
+    <Item>
+      <PriceUpdateDate>2016-08-13 09:30:08</PriceUpdateDate>
+      <ItemCode>88004144746</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>ליקר פייר בול 750 מ"</ItemName>
+      <ManufacturerName>סזארק</ManufacturerName>
+      <ManufactureCountry>ארה"ב</ManufactureCountry>
+      <ManufacturerItemDescription>שוטר/ליקר וויסקי וקינמון פיירבול 750 מ"ל</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>750.00</Quantity>
+      <UnitOfMeasure>100 מ"ל</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>129.90</ItemPrice>
+      <UnitOfMeasurePrice>0.1732</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>157761</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-08-13 09:30:16</PriceUpdateDate>
+      <ItemCode>3257150100204</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>קוניאק צרפתי מיוקוב</ItemName>
+      <ManufacturerName>DISTILLERIES  DE  MA</ManufacturerName>
+      <ManufactureCountry>צרפת</ManufactureCountry>
+      <ManufacturerItemDescription>קוניאק צרפתי מיוקב 7 מל V.S</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>700.00</Quantity>
+      <UnitOfMeasure>יחידה</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>126.90</ItemPrice>
+      <UnitOfMeasurePrice>0.1813</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>209053</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-08-13 09:30:16</PriceUpdateDate>
+      <ItemCode>3257150101119</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>מארז קוניאק מיוקוב 5</ItemName>
+      <ManufacturerName>DISTILLERIES  DE  MA</ManufacturerName>
+      <ManufactureCountry>צרפת</ManufactureCountry>
+      <ManufacturerItemDescription>מארז קוניאק  מיוקב 5 כוכבים + מארז 700</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>700.00</Quantity>
+      <UnitOfMeasure>מטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>126.90</ItemPrice>
+      <UnitOfMeasurePrice>0.1813</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>218708</ItemId>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-08-13 09:34:46</PriceUpdateDate>
+      <ItemCode>7501064191466</ItemCode>
+      <ItemType>0</ItemType>
+      <ItemName>שישיית בירה קורונה 3</ItemName>
+      <ManufacturerName>סרבסריה מודלו</ManufacturerName>
+      <ManufactureCountry>מקסיקו</ManufactureCountry>
+      <ManufacturerItemDescription>שישיית בירה קורונה 355 מ"ל בקבוק</ManufacturerItemDescription>
+      <UnitQty>לא ידוע</UnitQty>
+      <Quantity>2.13</Quantity>
+      <UnitOfMeasure>ליטר</UnitOfMeasure>
+      <bIsWeighted>0</bIsWeighted>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>59.90</ItemPrice>
+      <UnitOfMeasurePrice>28.1221</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+      <ItemId>140682</ItemId>
+    </Item>
+  </Items>
+</Root>
