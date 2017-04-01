@@ -5,7 +5,7 @@
     using System.Text;
 
     public class Program 
-    {
+    { 
         public static void Main()
         {
             GameUI game = new GameUI();

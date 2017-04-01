@@ -1,0 +1,8 @@
+C:\Users\israel\Documents\Visual Studio 2015\Projects\My-Projects\Memmory-Game WinForms Application\MemoryGame\bin\Debug\C16_Ex05.exe
+C:\Users\israel\Documents\Visual Studio 2015\Projects\My-Projects\Memmory-Game WinForms Application\MemoryGame\bin\Debug\C16_Ex05.pdb
+C:\Users\israel\Documents\Visual Studio 2015\Projects\My-Projects\Memmory-Game WinForms Application\MemoryGame\obj\x86\Debug\MemoryGame.csprojResolveAssemblyReference.cache
+C:\Users\israel\Documents\Visual Studio 2015\Projects\My-Projects\Memmory-Game WinForms Application\MemoryGame\obj\x86\Debug\C16_Ex05.GameUIForm.resources
+C:\Users\israel\Documents\Visual Studio 2015\Projects\My-Projects\Memmory-Game WinForms Application\MemoryGame\obj\x86\Debug\C16_Ex05.SettingsForm.resources
+C:\Users\israel\Documents\Visual Studio 2015\Projects\My-Projects\Memmory-Game WinForms Application\MemoryGame\obj\x86\Debug\MemoryGame.csproj.GenerateResource.Cache
+C:\Users\israel\Documents\Visual Studio 2015\Projects\My-Projects\Memmory-Game WinForms Application\MemoryGame\obj\x86\Debug\C16_Ex05.exe
+C:\Users\israel\Documents\Visual Studio 2015\Projects\My-Projects\Memmory-Game WinForms Application\MemoryGame\obj\x86\Debug\C16_Ex05.pdb

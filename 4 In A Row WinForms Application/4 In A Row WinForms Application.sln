@@ -1,12 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B16_Ex05", "Project1\B16_Ex05.csproj", "{22EF5910-AA2A-4AF5-9F8F-93EA6B21E71E}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8F9A3AA1-AE87-4F49-9F3B-943426670603}"
-	ProjectSection(SolutionItems) = preProject
-		ExecrciseCheckingReport.txt = ExecrciseCheckingReport.txt
-	EndProjectSection
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4InARow", "Project1\4InARow.csproj", "{22EF5910-AA2A-4AF5-9F8F-93EA6B21E71E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
